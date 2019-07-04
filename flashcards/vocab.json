@@ -1,1892 +1,2228 @@
 [
   {
-    "Section": "",
-    "Japanese": "接続詞",
-    "Reading": "せつぞくし",
-    "English": "conjunction"
+    "section": "",
+    "japanese": "接続詞",
+    "reading": "せつぞくし",
+    "english": "conjunction"
   },
   {
-    "Section": "",
-    "Japanese": "文書",
-    "Reading": "ぶんしょ",
-    "English": "document, writing, letter, paperwork, note, records, archives"
+    "section": "",
+    "japanese": "文書",
+    "reading": "ぶんしょ",
+    "english": "document, writing, letter, paperwork, note, records, archives"
   },
   {
-    "Section": "",
-    "Japanese": "文法",
-    "Reading": "ぶんぽう",
-    "English": "grammar, syntax"
+    "section": "",
+    "japanese": "文法",
+    "reading": "ぶんぽう",
+    "english": "grammar, syntax"
   },
   {
-    "Section": "",
-    "Japanese": "違う",
-    "Reading": "ちがう",
-    "English": "to differ (from), to vary"
+    "section": "",
+    "japanese": "違う",
+    "reading": "ちがう",
+    "english": "to differ (from), to vary"
   },
   {
-    "Section": "",
-    "Japanese": "続く",
-    "Reading": "つづく",
-    "English": "to continue, to last, to go on"
+    "section": "",
+    "japanese": "続く",
+    "reading": "つづく",
+    "english": "to continue, to last, to go on"
   },
   {
-    "Section": "",
-    "Japanese": "起ころ",
-    "Reading": "おこる",
-    "English": "to occur, to happen"
+    "section": "",
+    "japanese": "起ころ",
+    "reading": "おこる",
+    "english": "to occur, to happen"
   },
   {
-    "Section": "",
-    "Japanese": "状態",
-    "Reading": "じょうたい",
-    "English": "current status, condition, situation, circumstances, state"
+    "section": "",
+    "japanese": "状態",
+    "reading": "じょうたい",
+    "english": "current status, condition, situation, circumstances, state"
   },
   {
-    "Section": "",
-    "Japanese": "動作",
-    "Reading": "どうさ",
-    "English": "action, movements, motions, bearing, behaviour, behavior, execution, actuation, operation, manners"
+    "section": "",
+    "japanese": "動作",
+    "reading": "どうさ",
+    "english": "action, movements, motions, bearing, behaviour, behavior, execution, actuation, operation, manners"
   },
   {
-    "Section": "",
-    "Japanese": "犯人",
-    "Reading": "はんにん",
-    "English": "offender, criminal"
+    "section": "",
+    "japanese": "犯人",
+    "reading": "はんにん",
+    "english": "offender, criminal"
   },
   {
-    "Section": "",
-    "Japanese": "乗る",
-    "Reading": "のる",
-    "English": "to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark"
+    "section": "",
+    "japanese": "乗る",
+    "reading": "のる",
+    "english": "to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark"
   },
   {
-    "Section": "",
-    "Japanese": "警察署",
-    "Reading": "けいさつしょ",
-    "English": "police station"
+    "section": "",
+    "japanese": "警察署",
+    "reading": "けいさつしょ",
+    "english": "police station"
   },
   {
-    "Section": "",
-    "Japanese": "到着",
-    "Reading": "とうちゃく",
-    "English": "arrival"
+    "section": "",
+    "japanese": "到着",
+    "reading": "とうちゃく",
+    "english": "arrival"
   },
   {
-    "Section": "",
-    "Japanese": "新聞",
-    "Reading": "しんぶん",
-    "English": "newspaper"
+    "section": "",
+    "japanese": "新聞",
+    "reading": "しんぶん",
+    "english": "newspaper"
   },
   {
-    "Section": "",
-    "Japanese": "記者",
-    "Reading": "きしゃ",
-    "English": "reporter"
+    "section": "",
+    "japanese": "記者",
+    "reading": "きしゃ",
+    "english": "reporter"
   },
   {
-    "Section": "",
-    "Japanese": "取り巻く",
-    "Reading": "とりまく",
-    "English": "to surround, to circle, to enclose"
+    "section": "",
+    "japanese": "取り巻く",
+    "reading": "とりまく",
+    "english": "to surround, to circle, to enclose"
   },
   {
-    "Section": "",
-    "Japanese": "大騒ぎ",
-    "Reading": "おおさわぎ",
-    "English": "clamour, clamor, uproar, tumult, furore, furor"
+    "section": "",
+    "japanese": "大騒ぎ",
+    "reading": "おおさわぎ",
+    "english": "clamour, clamor, uproar, tumult, furore, furor"
   },
   {
-    "Section": "",
-    "Japanese": "煙",
-    "Reading": "けむり",
-    "English": "smoke, fumes"
+    "section": "",
+    "japanese": "煙",
+    "reading": "けむり",
+    "english": "smoke, fumes"
   },
   {
-    "Section": "",
-    "Japanese": "思い",
-    "Reading": "おもい",
-    "English": "thought"
+    "section": "",
+    "japanese": "思い",
+    "reading": "おもい",
+    "english": "thought"
   },
   {
-    "Section": "",
-    "Japanese": "開く",
-    "Reading": "ひらく",
-    "English": "to open, to undo, to unseal, to unpack"
+    "section": "",
+    "japanese": "開く",
+    "reading": "ひらく",
+    "english": "to open, to undo, to unseal, to unpack"
   },
   {
-    "Section": "",
-    "Japanese": "空気",
-    "Reading": "くうき",
-    "English": "air, atmosphere"
+    "section": "",
+    "japanese": "空気",
+    "reading": "くうき",
+    "english": "air, atmosphere"
   },
   {
-    "Section": "",
-    "Japanese": "入れかえる",
-    "Reading": "いれかえる",
-    "English": "to replace, to substitute, to shift, to change places"
+    "section": "",
+    "japanese": "入れかえる",
+    "reading": "いれかえる",
+    "english": "to replace, to substitute, to shift, to change places"
   },
   {
-    "Section": "",
-    "Japanese": "魔女",
-    "Reading": "まじょ",
-    "English": "witch"
+    "section": "",
+    "japanese": "魔女",
+    "reading": "まじょ",
+    "english": "witch"
   },
   {
-    "Section": "",
-    "Japanese": "毒",
-    "Reading": "どく",
-    "English": "poison, toxicant"
+    "section": "",
+    "japanese": "毒",
+    "reading": "どく",
+    "english": "poison, toxicant"
   },
   {
-    "Section": "",
-    "Japanese": "白雪姫",
-    "Reading": "しらゆきひめ",
-    "English": "Snow White"
+    "section": "",
+    "japanese": "白雪姫",
+    "reading": "しらゆきひめ",
+    "english": "Snow White"
   },
   {
-    "Section": "",
-    "Japanese": "二度",
-    "Reading": "ふたたび",
-    "English": "again, once more, a second time"
+    "section": "",
+    "japanese": "二度",
+    "reading": "ふたたび",
+    "english": "again, once more, a second time"
   },
   {
-    "Section": "",
-    "Japanese": "生き返る",
-    "Reading": "いきかえる",
-    "English": "to revive, to come to oneself, to be restored to life"
+    "section": "",
+    "japanese": "生き返る",
+    "reading": "いきかえる",
+    "english": "to revive, to come to oneself, to be restored to life"
   },
   {
-    "Section": "",
-    "Japanese": "もう",
-    "Reading": "もう",
-    "English": "now, soon, shortly, before long, presently"
+    "section": "",
+    "japanese": "もう",
+    "reading": "もう",
+    "english": "now, soon, shortly, before long, presently"
   },
   {
-    "Section": "",
-    "Japanese": "二度と",
-    "Reading": "にどと",
-    "English": "never again (with negative verb)"
+    "section": "",
+    "japanese": "二度と",
+    "reading": "にどと",
+    "english": "never again (with negative verb)"
   },
   {
-    "Section": "",
-    "Japanese": "〜でしまう",
-    "Reading": "で",
-    "English": "coming out, going out, outflow, efflux, rising (of the sun or moon)"
+    "section": "",
+    "japanese": "〜でしまう",
+    "reading": "で",
+    "english": "coming out, going out, outflow, efflux, rising (of the sun or moon)"
   },
   {
-    "Section": "",
-    "Japanese": "王子様",
-    "Reading": "",
-    "English": "Ōjisama to Yuki no Yoru"
+    "section": "",
+    "japanese": "王子様",
+    "reading": "",
+    "english": "Ōjisama to Yuki no Yoru"
   },
   {
-    "Section": "",
-    "Japanese": "原因",
-    "Reading": "げんいん",
-    "English": "cause, origin, source"
+    "section": "",
+    "japanese": "原因",
+    "reading": "げんいん",
+    "english": "cause, origin, source"
   },
   {
-    "Section": "",
-    "Japanese": "理由",
-    "Reading": "りゆう",
-    "English": "reason, pretext, motive"
+    "section": "",
+    "japanese": "理由",
+    "reading": "りゆう",
+    "english": "reason, pretext, motive"
   },
   {
-    "Section": "",
-    "Japanese": "長い間",
-    "Reading": "ながいあいだ",
-    "English": "long time, long interval, for quite some time"
+    "section": "",
+    "japanese": "長い間",
+    "reading": "ながいあいだ",
+    "english": "long time, long interval, for quite some time"
   },
   {
-    "Section": "",
-    "Japanese": "中国",
-    "Reading": "ちゅうごく",
-    "English": "China"
+    "section": "",
+    "japanese": "中国",
+    "reading": "ちゅうごく",
+    "english": "China"
   },
   {
-    "Section": "",
-    "Japanese": "人身事故",
-    "Reading": "じんしんじこ",
-    "English": "accident resulting in personal injury or death (esp. traffic, rail, etc.)"
+    "section": "",
+    "japanese": "人身事故",
+    "reading": "じんしんじこ",
+    "english": "accident resulting in personal injury or death (esp. traffic, rail, etc.)"
   },
   {
-    "Section": "",
-    "Japanese": "台風",
-    "Reading": "たいふう",
-    "English": "typhoon, hurricane"
+    "section": "",
+    "japanese": "台風",
+    "reading": "たいふう",
+    "english": "typhoon, hurricane"
   },
   {
-    "Section": "",
-    "Japanese": "接近する",
-    "Reading": "せっきん",
-    "English": "getting closer, drawing nearer, approaching"
+    "section": "",
+    "japanese": "接近する",
+    "reading": "せっきん",
+    "english": "getting closer, drawing nearer, approaching"
   },
   {
-    "Section": "",
-    "Japanese": "中止",
-    "Reading": "ちゅうし",
-    "English": "suspension, stoppage, discontinuance, interruption"
+    "section": "",
+    "japanese": "中止",
+    "reading": "ちゅうし",
+    "english": "suspension, stoppage, discontinuance, interruption"
   },
   {
-    "Section": "",
-    "Japanese": "建設",
-    "Reading": "けんせつ",
-    "English": "construction, establishment"
+    "section": "",
+    "japanese": "建設",
+    "reading": "けんせつ",
+    "english": "construction, establishment"
   },
   {
-    "Section": "",
-    "Japanese": "賛成",
-    "Reading": "さんせい",
-    "English": "approval, agreement, support, favour, favor"
+    "section": "",
+    "japanese": "賛成",
+    "reading": "さんせい",
+    "english": "approval, agreement, support, favour, favor"
   },
   {
-    "Section": "",
-    "Japanese": "票",
-    "Reading": "ひょう",
-    "English": "vote, ballot"
+    "section": "",
+    "japanese": "票",
+    "reading": "ひょう",
+    "english": "vote, ballot"
   },
   {
-    "Section": "",
-    "Japanese": "反対",
-    "Reading": "はんたい",
-    "English": "opposition, resistance, antagonism, hostility, objection, dissension"
+    "section": "",
+    "japanese": "反対",
+    "reading": "はんたい",
+    "english": "opposition, resistance, antagonism, hostility, objection, dissension"
   },
   {
-    "Section": "",
-    "Japanese": "承認",
-    "Reading": "しょうにん",
-    "English": "recognition, acknowledgement, acknowledgment, approval, consent, agreement"
+    "section": "",
+    "japanese": "承認",
+    "reading": "しょうにん",
+    "english": "recognition, acknowledgement, acknowledgment, approval, consent, agreement"
   },
   {
-    "Section": "",
-    "Japanese": "如何しても",
-    "Reading": "どうしても",
-    "English": "by all means, at any cost, no matter what, after all, in the long run, cravingly, at any rate, surely"
+    "section": "",
+    "japanese": "如何しても",
+    "reading": "どうしても",
+    "english": "by all means, at any cost, no matter what, after all, in the long run, cravingly, at any rate, surely"
   },
   {
-    "Section": "",
-    "Japanese": "同窓会",
-    "Reading": "どうそうかい",
-    "English": "graduate's association, alumni meeting, class reunion"
+    "section": "",
+    "japanese": "同窓会",
+    "reading": "どうそうかい",
+    "english": "graduate's association, alumni meeting, class reunion"
   },
   {
-    "Section": "",
-    "Japanese": "参加",
-    "Reading": "さんか",
-    "English": "participation"
+    "section": "",
+    "japanese": "参加",
+    "reading": "さんか",
+    "english": "participation"
   },
   {
-    "Section": "",
-    "Japanese": "海外",
-    "Reading": "かいがい",
-    "English": "foreign, abroad, overseas"
+    "section": "",
+    "japanese": "海外",
+    "reading": "かいがい",
+    "english": "foreign, abroad, overseas"
   },
   {
-    "Section": "",
-    "Japanese": "転勤",
-    "Reading": "てんきん",
-    "English": "job transfer, job relocation, intra-company transfer"
+    "section": "",
+    "japanese": "転勤",
+    "reading": "てんきん",
+    "english": "job transfer, job relocation, intra-company transfer"
   },
   {
-    "Section": "",
-    "Japanese": "準備",
-    "Reading": "じゅんび",
-    "English": "preparation, setup, arrangements, provision, reserve"
+    "section": "",
+    "japanese": "準備",
+    "reading": "じゅんび",
+    "english": "preparation, setup, arrangements, provision, reserve"
   },
   {
-    "Section": "",
-    "Japanese": "急いで",
-    "Reading": "いそいで",
-    "English": "hurriedly"
+    "section": "",
+    "japanese": "急いで",
+    "reading": "いそいで",
+    "english": "hurriedly"
   },
   {
-    "Section": "",
-    "Japanese": "食事をする",
-    "Reading": "しょくじ",
-    "English": "meal"
+    "section": "",
+    "japanese": "食事をする",
+    "reading": "しょくじ",
+    "english": "meal"
   },
   {
-    "Section": "",
-    "Japanese": "最近",
-    "Reading": "さいきん",
-    "English": "most recent, these days, right now, recently, nowadays"
+    "section": "",
+    "japanese": "最近",
+    "reading": "さいきん",
+    "english": "most recent, these days, right now, recently, nowadays"
   },
   {
-    "Section": "",
-    "Japanese": "悪性",
-    "Reading": "あくせい",
-    "English": "malignancy, virulence, malignant (cancer), pernicious (anemia, anaemia)"
+    "section": "",
+    "japanese": "悪性",
+    "reading": "あくせい",
+    "english": "malignancy, virulence, malignant (cancer), pernicious (anemia, anaemia)"
   },
   {
-    "Section": "",
-    "Japanese": "風邪",
-    "Reading": "かぜ",
-    "English": "common cold, cold, influenza, flu, ague"
+    "section": "",
+    "japanese": "風邪",
+    "reading": "かぜ",
+    "english": "common cold, cold, influenza, flu, ague"
   },
   {
-    "Section": "",
-    "Japanese": "流行る",
-    "Reading": "はやる",
-    "English": "to be popular, to come into fashion"
+    "section": "",
+    "japanese": "流行る",
+    "reading": "はやる",
+    "english": "to be popular, to come into fashion"
   },
   {
-    "Section": "",
-    "Japanese": "開発",
-    "Reading": "かいはつ",
-    "English": "development, exploitation"
+    "section": "",
+    "japanese": "開発",
+    "reading": "かいはつ",
+    "english": "development, exploitation"
   },
   {
-    "Section": "",
-    "Japanese": "わが社",
-    "Reading": "わがしゃ",
-    "English": "our company, my company"
+    "section": "",
+    "japanese": "わが社",
+    "reading": "わがしゃ",
+    "english": "our company, my company"
   },
   {
-    "Section": "",
-    "Japanese": "いたす",
-    "Reading": "いたす",
-    "English": "to do"
+    "section": "",
+    "japanese": "いたす",
+    "reading": "いたす",
+    "english": "to do"
   },
   {
-    "Section": "",
-    "Japanese": "いかが",
-    "Reading": "どう",
-    "English": "how, in what way, how about"
+    "section": "",
+    "japanese": "いかが",
+    "reading": "どう",
+    "english": "how, in what way, how about"
   },
   {
-    "Section": "",
-    "Japanese": "非常",
-    "Reading": "ひじょう",
-    "English": "emergency"
+    "section": "",
+    "japanese": "非常",
+    "reading": "ひじょう",
+    "english": "emergency"
   },
   {
-    "Section": "",
-    "Japanese": "危険",
-    "Reading": "きけん",
-    "English": "danger, peril, hazard"
+    "section": "",
+    "japanese": "危険",
+    "reading": "きけん",
+    "english": "danger, peril, hazard"
   },
   {
-    "Section": "",
-    "Japanese": "場所",
-    "Reading": "ばしょ",
-    "English": "place, location, spot, position"
+    "section": "",
+    "japanese": "場所",
+    "reading": "ばしょ",
+    "english": "place, location, spot, position"
   },
   {
-    "Section": "",
-    "Japanese": "それでも",
-    "Reading": "それでも",
-    "English": "but (still), and yet, nevertheless, even so, notwithstanding"
+    "section": "",
+    "japanese": "それでも",
+    "reading": "それでも",
+    "english": "but (still), and yet, nevertheless, even so, notwithstanding"
   },
   {
-    "Section": "",
-    "Japanese": "辞める",
-    "Reading": "やめる",
-    "English": "to resign, to retire, to quit, to leave (one's job, etc.)"
+    "section": "",
+    "japanese": "辞める",
+    "reading": "やめる",
+    "english": "to resign, to retire, to quit, to leave (one's job, etc.)"
   },
   {
-    "Section": "",
-    "Japanese": "それで",
-    "Reading": "それで",
-    "English": "and, thereupon, because of that"
+    "section": "",
+    "japanese": "それで",
+    "reading": "それで",
+    "english": "and, thereupon, because of that"
   },
   {
-    "Section": "",
-    "Japanese": "相手",
-    "Reading": "あいて",
-    "English": "companion, partner, company"
+    "section": "",
+    "japanese": "相手",
+    "reading": "あいて",
+    "english": "companion, partner, company"
   },
   {
-    "Section": "",
-    "Japanese": "美し",
-    "Reading": "うつくしい",
-    "English": "beautiful, lovely"
+    "section": "",
+    "japanese": "美し",
+    "reading": "うつくしい",
+    "english": "beautiful, lovely"
   },
   {
-    "Section": "",
-    "Japanese": "勉強",
-    "Reading": "べんきょう",
-    "English": "study"
+    "section": "",
+    "japanese": "勉強",
+    "reading": "べんきょう",
+    "english": "study"
   },
   {
-    "Section": "",
-    "Japanese": "性格",
-    "Reading": "せいかく",
-    "English": "character, personality, disposition, nature"
+    "section": "",
+    "japanese": "性格",
+    "reading": "せいかく",
+    "english": "character, personality, disposition, nature"
   },
   {
-    "Section": "",
-    "Japanese": "しかし",
-    "Reading": "しかし",
-    "English": "however, but"
+    "section": "",
+    "japanese": "しかし",
+    "reading": "しかし",
+    "english": "however, but"
   },
   {
-    "Section": "",
-    "Japanese": "かなり",
-    "Reading": "かなり",
-    "English": "considerably, fairly, quite"
+    "section": "",
+    "japanese": "かなり",
+    "reading": "かなり",
+    "english": "considerably, fairly, quite"
   },
   {
-    "Section": "",
-    "Japanese": "安い",
-    "Reading": "やすい",
-    "English": "cheap, inexpensive"
+    "section": "",
+    "japanese": "安い",
+    "reading": "やすい",
+    "english": "cheap, inexpensive"
   },
   {
-    "Section": "",
-    "Japanese": "丈夫",
-    "Reading": "じょうぶ",
-    "English": "healthy, robust, strong, solid, durable"
+    "section": "",
+    "japanese": "丈夫",
+    "reading": "じょうぶ",
+    "english": "healthy, robust, strong, solid, durable"
   },
   {
-    "Section": "",
-    "Japanese": "ではない",
-    "Reading": "ではない",
-    "English": "is not, am not, are not"
+    "section": "",
+    "japanese": "ではない",
+    "reading": "ではない",
+    "english": "is not, am not, are not"
   },
   {
-    "Section": "",
-    "Japanese": "けれども",
-    "Reading": "けど",
-    "English": "but, however, although"
+    "section": "",
+    "japanese": "けれども",
+    "reading": "けど",
+    "english": "but, however, although"
   },
   {
-    "Section": "",
-    "Japanese": "だけど",
-    "Reading": "だけど",
-    "English": "however"
+    "section": "",
+    "japanese": "だけど",
+    "reading": "だけど",
+    "english": "however"
   },
   {
-    "Section": "",
-    "Japanese": "ちょっとも",
-    "Reading": "ちょっとも",
-    "English": "not at all (neg. verb)"
+    "section": "",
+    "japanese": "ちょっとも",
+    "reading": "ちょっとも",
+    "english": "not at all (neg. verb)"
   },
   {
-    "Section": "",
-    "Japanese": "やせなっかた",
-    "Reading": "やせる",
-    "English": "to become thin, to lose weight, to reduce (one's) weight, to slim"
+    "section": "",
+    "japanese": "やせなっかた",
+    "reading": "やせる",
+    "english": "to become thin, to lose weight, to reduce (one's) weight, to slim"
   },
   {
-    "Section": "",
-    "Japanese": "だが",
-    "Reading": "だが",
-    "English": "but, however, (and) yet, nevertheless, still, for all that"
+    "section": "",
+    "japanese": "だが",
+    "reading": "だが",
+    "english": "but, however, (and) yet, nevertheless, still, for all that"
   },
   {
-    "Section": "",
-    "Japanese": "映画",
-    "Reading": "えいが",
-    "English": "movie, film"
+    "section": "",
+    "japanese": "映画",
+    "reading": "えいが",
+    "english": "movie, film"
   },
   {
-    "Section": "",
-    "Japanese": "美術館",
-    "Reading": "びじゅつかん",
-    "English": "art gallery, art museum"
+    "section": "",
+    "japanese": "美術館",
+    "reading": "びじゅつかん",
+    "english": "art gallery, art museum"
   },
   {
-    "Section": "",
-    "Japanese": "時間",
-    "Reading": "じかん",
-    "English": "time"
+    "section": "",
+    "japanese": "時間",
+    "reading": "じかん",
+    "english": "time"
   },
   {
-    "Section": "",
-    "Japanese": "無理",
-    "Reading": "むり",
-    "English": "unreasonable, unnatural, unjustifiable"
+    "section": "",
+    "japanese": "無理",
+    "reading": "むり",
+    "english": "unreasonable, unnatural, unjustifiable"
   },
   {
-    "Section": "",
-    "Japanese": "必ず",
-    "Reading": "かならず",
-    "English": "always, without exception, necessarily, certainly, without fail, positively, invariably"
+    "section": "",
+    "japanese": "必ず",
+    "reading": "かならず",
+    "english": "always, without exception, necessarily, certainly, without fail, positively, invariably"
   },
   {
-    "Section": "",
-    "Japanese": "約束",
-    "Reading": "やくそく",
-    "English": "promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date"
+    "section": "",
+    "japanese": "約束",
+    "reading": "やくそく",
+    "english": "promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date"
   },
   {
-    "Section": "",
-    "Japanese": "それなのに",
-    "Reading": "それなのに",
-    "English": "and yet, despite this, but even so, but even then, however, nevertheless, for all that, notwithstanding that"
+    "section": "",
+    "japanese": "それなのに",
+    "reading": "それなのに",
+    "english": "and yet, despite this, but even so, but even then, however, nevertheless, for all that, notwithstanding that"
   },
   {
-    "Section": "",
-    "Japanese": "いくら",
-    "Reading": "いくら",
-    "English": "how much?, how many?"
+    "section": "",
+    "japanese": "いくら",
+    "reading": "いくら",
+    "english": "how much?, how many?"
   },
   {
-    "Section": "",
-    "Japanese": "待つ",
-    "Reading": "まつ",
-    "English": "to wait"
+    "section": "",
+    "japanese": "待つ",
+    "reading": "まつ",
+    "english": "to wait"
   },
   {
-    "Section": "",
-    "Japanese": "ひどい",
-    "Reading": "ひどい",
-    "English": "cruel, heartless, hard, harsh, severe"
+    "section": "",
+    "japanese": "ひどい",
+    "reading": "ひどい",
+    "english": "cruel, heartless, hard, harsh, severe"
   },
   {
-    "Section": "",
-    "Japanese": "言われた",
-    "Reading": "いう",
-    "English": "to say, to utter, to declare"
+    "section": "",
+    "japanese": "言われた",
+    "reading": "いう",
+    "english": "to say, to utter, to declare"
   },
   {
-    "Section": "",
-    "Japanese": "並べて",
-    "Reading": "なべて",
-    "English": "in general, generally, usually"
+    "section": "",
+    "japanese": "並べて",
+    "reading": "なべて",
+    "english": "in general, generally, usually"
   },
   {
-    "Section": "",
-    "Japanese": "地下鉄",
-    "Reading": "ちかてつ",
-    "English": "underground train, subway"
+    "section": "",
+    "japanese": "地下鉄",
+    "reading": "ちかてつ",
+    "english": "underground train, subway"
   },
   {
-    "Section": "",
-    "Japanese": "便利",
-    "Reading": "べんり",
-    "English": "convenient, handy, useful"
+    "section": "",
+    "japanese": "便利",
+    "reading": "べんり",
+    "english": "convenient, handy, useful"
   },
   {
-    "Section": "",
-    "Japanese": "親切",
-    "Reading": "しんせつ",
-    "English": "kindness, gentleness"
+    "section": "",
+    "japanese": "親切",
+    "reading": "しんせつ",
+    "english": "kindness, gentleness"
   },
   {
-    "Section": "",
-    "Japanese": "まじめ",
-    "Reading": "まじめ",
-    "English": "diligent, serious, honest, sober, grave, earnest, steady"
+    "section": "",
+    "japanese": "まじめ",
+    "reading": "まじめ",
+    "english": "diligent, serious, honest, sober, grave, earnest, steady"
   },
   {
-    "Section": "",
-    "Japanese": "それに",
-    "Reading": "それに",
-    "English": "besides, in addition, also, moreover"
+    "section": "",
+    "japanese": "それに",
+    "reading": "それに",
+    "english": "besides, in addition, also, moreover"
   },
   {
-    "Section": "",
-    "Japanese": "妻",
-    "Reading": "つま",
-    "English": "wife"
+    "section": "",
+    "japanese": "妻",
+    "reading": "つま",
+    "english": "wife"
   },
   {
-    "Section": "",
-    "Japanese": "であります",
-    "Reading": "であります",
-    "English": "be, is"
+    "section": "",
+    "japanese": "であります",
+    "reading": "であります",
+    "english": "be, is"
   },
   {
-    "Section": "",
-    "Japanese": "また",
-    "Reading": "また",
-    "English": "again, and, also, still (doing something)"
+    "section": "",
+    "japanese": "また",
+    "reading": "また",
+    "english": "again, and, also, still (doing something)"
   },
   {
-    "Section": "",
-    "Japanese": "芸術家",
-    "Reading": "げいじゅつか",
-    "English": "artist"
+    "section": "",
+    "japanese": "芸術家",
+    "reading": "げいじゅつか",
+    "english": "artist"
   },
   {
-    "Section": "",
-    "Japanese": "付け加える",
-    "Reading": "つけくわえる",
-    "English": "to add one thing to another"
+    "section": "",
+    "japanese": "付け加える",
+    "reading": "つけくわえる",
+    "english": "to add one thing to another"
   },
   {
-    "Section": "",
-    "Japanese": "それに",
-    "Reading": "それに",
-    "English": "besides, in addition, also, moreover"
+    "section": "",
+    "japanese": "それに",
+    "reading": "それに",
+    "english": "besides, in addition, also, moreover"
   },
   {
-    "Section": "",
-    "Japanese": "鼻水",
-    "Reading": "はなみず",
-    "English": "nasal mucus, dripping nose, snot"
+    "section": "",
+    "japanese": "鼻水",
+    "reading": "はなみず",
+    "english": "nasal mucus, dripping nose, snot"
   },
   {
-    "Section": "",
-    "Japanese": "熱",
-    "Reading": "ねつ",
-    "English": "heat"
+    "section": "",
+    "japanese": "熱",
+    "reading": "ねつ",
+    "english": "heat"
   },
   {
-    "Section": "",
-    "Japanese": "そのうえ",
-    "Reading": "そのうえ",
-    "English": "in addition, furthermore"
+    "section": "",
+    "japanese": "そのうえ",
+    "reading": "そのうえ",
+    "english": "in addition, furthermore"
   },
   {
-    "Section": "",
-    "Japanese": "せき",
-    "Reading": "せき",
-    "English": "seat"
+    "section": "",
+    "japanese": "せき",
+    "reading": "せき",
+    "english": "seat"
   },
   {
-    "Section": "",
-    "Japanese": "弾ける",
-    "Reading": "はじける",
-    "English": "to burst open, to split open, to pop"
+    "section": "",
+    "japanese": "弾ける",
+    "reading": "はじける",
+    "english": "to burst open, to split open, to pop"
   },
   {
-    "Section": "",
-    "Japanese": "それから",
-    "Reading": "それから",
-    "English": "and then, after that"
+    "section": "",
+    "japanese": "それから",
+    "reading": "それから",
+    "english": "and then, after that"
   },
   {
-    "Section": "",
-    "Japanese": "卵",
-    "Reading": "たまご",
-    "English": "eggs, egg, spawn, roe"
+    "section": "",
+    "japanese": "卵",
+    "reading": "たまご",
+    "english": "eggs, egg, spawn, roe"
   },
   {
-    "Section": "",
-    "Japanese": "牛乳",
-    "Reading": "ぎゅうにゅう",
-    "English": "(cow's) milk"
+    "section": "",
+    "japanese": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "english": "(cow's) milk"
   },
   {
-    "Section": "",
-    "Japanese": "それても",
-    "Reading": "それる",
-    "English": "to turn away, to bear off, to veer away, to swerve from, to miss (e.g. a target)"
+    "section": "",
+    "japanese": "それても",
+    "reading": "それる",
+    "english": "to turn away, to bear off, to veer away, to swerve from, to miss (e.g. a target)"
   },
   {
-    "Section": "",
-    "Japanese": "あるいは",
-    "Reading": "あるいは",
-    "English": "or, possibly"
+    "section": "",
+    "japanese": "あるいは",
+    "reading": "あるいは",
+    "english": "or, possibly"
   },
   {
-    "Section": "",
-    "Japanese": "高速バス",
-    "Reading": "",
-    "English": "Intercity bus"
+    "section": "",
+    "japanese": "高速バス",
+    "reading": "",
+    "english": "Intercity bus"
   },
   {
-    "Section": "",
-    "Japanese": "または",
-    "Reading": "または",
-    "English": "or, otherwise"
+    "section": "",
+    "japanese": "または",
+    "reading": "または",
+    "english": "or, otherwise"
   },
   {
-    "Section": "",
-    "Japanese": "記入",
-    "Reading": "きにゅう",
-    "English": "entry (in a form, register, diary, etc.), filling in, filling out"
+    "section": "",
+    "japanese": "記入",
+    "reading": "きにゅう",
+    "english": "entry (in a form, register, diary, etc.), filling in, filling out"
   },
   {
-    "Section": "",
-    "Japanese": "駐車禁止",
-    "Reading": "ちゅうしゃきんし",
-    "English": "No Parking"
+    "section": "",
+    "japanese": "駐車禁止",
+    "reading": "ちゅうしゃきんし",
+    "english": "No Parking"
   },
   {
-    "Section": "",
-    "Japanese": "だだし",
-    "Reading": "だ",
-    "English": "be, is"
+    "section": "",
+    "japanese": "だだし",
+    "reading": "だ",
+    "english": "be, is"
   },
   {
-    "Section": "",
-    "Japanese": "事前",
-    "Reading": "じぜん",
-    "English": "prior, beforehand, in advance, before the fact, ex ante"
+    "section": "",
+    "japanese": "事前",
+    "reading": "じぜん",
+    "english": "prior, beforehand, in advance, before the fact, ex ante"
   },
   {
-    "Section": "",
-    "Japanese": "許可",
-    "Reading": "きょか",
-    "English": "permission, approval, authorization, license"
+    "section": "",
+    "japanese": "許可",
+    "reading": "きょか",
+    "english": "permission, approval, authorization, license"
   },
   {
-    "Section": "",
-    "Japanese": "場合",
-    "Reading": "ばあい",
-    "English": "case, situation"
+    "section": "",
+    "japanese": "場合",
+    "reading": "ばあい",
+    "english": "case, situation"
   },
   {
-    "Section": "",
-    "Japanese": "別",
-    "Reading": "べつ",
-    "English": "distinction, difference, different, another, particular, separate, extra, exception"
+    "section": "",
+    "japanese": "別",
+    "reading": "べつ",
+    "english": "distinction, difference, different, another, particular, separate, extra, exception"
   },
   {
-    "Section": "",
-    "Japanese": "日常",
-    "Reading": "にちじょう",
-    "English": "ordinary, regular, everyday, usual"
+    "section": "",
+    "japanese": "日常",
+    "reading": "にちじょう",
+    "english": "ordinary, regular, everyday, usual"
   },
   {
-    "Section": "",
-    "Japanese": "妻",
-    "Reading": "つま",
-    "English": "wife"
+    "section": "",
+    "japanese": "妻",
+    "reading": "つま",
+    "english": "wife"
   },
   {
-    "Section": "",
-    "Japanese": "掃除",
-    "Reading": "そうじ",
-    "English": "cleaning, sweeping, dusting, scrubbing"
+    "section": "",
+    "japanese": "掃除",
+    "reading": "そうじ",
+    "english": "cleaning, sweeping, dusting, scrubbing"
   },
   {
-    "Section": "",
-    "Japanese": "ほこり",
-    "Reading": "ほこり",
-    "English": "dust"
+    "section": "",
+    "japanese": "ほこり",
+    "reading": "ほこり",
+    "english": "dust"
   },
   {
-    "Section": "",
-    "Japanese": "吸う",
-    "Reading": "すう",
-    "English": "to smoke, to breathe in, to inhale"
+    "section": "",
+    "japanese": "吸う",
+    "reading": "すう",
+    "english": "to smoke, to breathe in, to inhale"
   },
   {
-    "Section": "",
-    "Japanese": "咳",
-    "Reading": "せき",
-    "English": "cough, coughing, tussis"
+    "section": "",
+    "japanese": "咳",
+    "reading": "せき",
+    "english": "cough, coughing, tussis"
   },
   {
-    "Section": "",
-    "Japanese": "触れる",
-    "Reading": "ふれる",
-    "English": "to touch, to feel"
+    "section": "",
+    "japanese": "触れる",
+    "reading": "ふれる",
+    "english": "to touch, to feel"
   },
   {
-    "Section": "",
-    "Japanese": "肌",
-    "Reading": "はだ",
-    "English": "skin"
+    "section": "",
+    "japanese": "肌",
+    "reading": "はだ",
+    "english": "skin"
   },
   {
-    "Section": "",
-    "Japanese": "痒くなる",
-    "Reading": "かゆい",
-    "English": "itchy"
+    "section": "",
+    "japanese": "痒くなる",
+    "reading": "かゆい",
+    "english": "itchy"
   },
   {
-    "Section": "",
-    "Japanese": "掃除機",
-    "Reading": "そうじき",
-    "English": "cleaner (usu. vacuum cleaner)"
+    "section": "",
+    "japanese": "掃除機",
+    "reading": "そうじき",
+    "english": "cleaner (usu. vacuum cleaner)"
   },
   {
-    "Section": "",
-    "Japanese": "ことになる",
-    "Reading": "ことになる",
-    "English": "it has been decided (so) that, it has been arranged (so) that"
+    "section": "",
+    "japanese": "ことになる",
+    "reading": "ことになる",
+    "english": "it has been decided (so) that, it has been arranged (so) that"
   },
   {
-    "Section": "",
-    "Japanese": "だって",
-    "Reading": "だって",
-    "English": "after all, because"
+    "section": "",
+    "japanese": "だって",
+    "reading": "だって",
+    "english": "after all, because"
   },
   {
-    "Section": "",
-    "Japanese": "あんまり",
-    "Reading": "あまり",
-    "English": "remainder, rest, balance, remains, scraps, residue, remnant"
+    "section": "",
+    "japanese": "あんまり",
+    "reading": "あまり",
+    "english": "remainder, rest, balance, remains, scraps, residue, remnant"
   },
   {
-    "Section": "",
-    "Japanese": "気になる",
-    "Reading": "きになる",
-    "English": "to be on one's mind, to worry one, to care about, to be bothered by, to feel uneasy, to be anxious, to be curious about"
+    "section": "",
+    "japanese": "気になる",
+    "reading": "きになる",
+    "english": "to be on one's mind, to worry one, to care about, to be bothered by, to feel uneasy, to be anxious, to be curious about"
   },
   {
-    "Section": "",
-    "Japanese": "体質",
-    "Reading": "たいしつ",
-    "English": "constitution (physical), physical make-up, predisposition (to disease), disposition, tendency"
+    "section": "",
+    "japanese": "体質",
+    "reading": "たいしつ",
+    "english": "constitution (physical), physical make-up, predisposition (to disease), disposition, tendency"
   },
   {
-    "Section": "",
-    "Japanese": "診断",
-    "Reading": "しんだん",
-    "English": "diagnosis, medical examination"
+    "section": "",
+    "japanese": "診断",
+    "reading": "しんだん",
+    "english": "diagnosis, medical examination"
   },
   {
-    "Section": "",
-    "Japanese": "選ぶ",
-    "Reading": "えらぶ",
-    "English": "to choose, to select"
+    "section": "",
+    "japanese": "選ぶ",
+    "reading": "えらぶ",
+    "english": "to choose, to select"
   },
   {
-    "Section": "",
-    "Japanese": "選挙",
-    "Reading": "せんきょ",
-    "English": "election"
+    "section": "",
+    "japanese": "選挙",
+    "reading": "せんきょ",
+    "english": "election"
   },
   {
-    "Section": "",
-    "Japanese": "投票率",
-    "Reading": "とうひょうりつ",
-    "English": "voter turnout, (polling) turnout"
+    "section": "",
+    "japanese": "投票率",
+    "reading": "とうひょうりつ",
+    "english": "voter turnout, (polling) turnout"
   },
   {
-    "Section": "",
-    "Japanese": "完成",
-    "Reading": "かんせい",
-    "English": "complete, completion"
+    "section": "",
+    "japanese": "完成",
+    "reading": "かんせい",
+    "english": "complete, completion"
   },
   {
-    "Section": "",
-    "Japanese": "あのう",
-    "Reading": "あのう",
-    "English": "say, well, errr ..."
+    "section": "",
+    "japanese": "あのう",
+    "reading": "あのう",
+    "english": "say, well, errr ..."
   },
   {
-    "Section": "",
-    "Japanese": "締め切り",
-    "Reading": "しめきり",
-    "English": "deadline, closing, cut-off, end"
+    "section": "",
+    "japanese": "締め切り",
+    "reading": "しめきり",
+    "english": "deadline, closing, cut-off, end"
   },
   {
-    "Section": "",
-    "Japanese": "間に合い",
-    "Reading": "まにあい",
-    "English": "makeshift"
+    "section": "",
+    "japanese": "間に合い",
+    "reading": "まにあい",
+    "english": "makeshift"
   },
   {
-    "Section": "",
-    "Japanese": "そうもない",
-    "Reading": "そうもない",
-    "English": "very unlikely to (verb)"
+    "section": "",
+    "japanese": "そうもない",
+    "reading": "そうもない",
+    "english": "very unlikely to (verb)"
   },
   {
-    "Section": "",
-    "Japanese": "必ず",
-    "Reading": "かならず",
-    "English": "always, without exception, necessarily, certainly, without fail, positively, invariably"
+    "section": "",
+    "japanese": "必ず",
+    "reading": "かならず",
+    "english": "always, without exception, necessarily, certainly, without fail, positively, invariably"
   },
   {
-    "Section": "",
-    "Japanese": "紹介",
-    "Reading": "しょうかい",
-    "English": "introduction, presentation, referral, listing"
+    "section": "",
+    "japanese": "紹介",
+    "reading": "しょうかい",
+    "english": "introduction, presentation, referral, listing"
   },
   {
-    "Section": "",
-    "Japanese": "出版",
-    "Reading": "しゅっぱん",
-    "English": "publication"
+    "section": "",
+    "japanese": "出版",
+    "reading": "しゅっぱん",
+    "english": "publication"
   },
   {
-    "Section": "",
-    "Japanese": "関係",
-    "Reading": "かんけい",
-    "English": "relation, relationship, connection"
+    "section": "",
+    "japanese": "関係",
+    "reading": "かんけい",
+    "english": "relation, relationship, connection"
   },
   {
-    "Section": "",
-    "Japanese": "訪ねた",
-    "Reading": "たずねる",
-    "English": "to visit, to call on, to pay a visit to"
+    "section": "",
+    "japanese": "訪ねた",
+    "reading": "たずねる",
+    "english": "to visit, to call on, to pay a visit to"
   },
   {
-    "Section": "",
-    "Japanese": "出版社",
-    "Reading": "しゅっぱんしゃ",
-    "English": "publisher, publishing house, publishing company"
+    "section": "",
+    "japanese": "出版社",
+    "reading": "しゅっぱんしゃ",
+    "english": "publisher, publishing house, publishing company"
   },
   {
-    "Section": "",
-    "Japanese": "就職",
-    "Reading": "しゅうしょく",
-    "English": "finding employment, getting a job"
+    "section": "",
+    "japanese": "就職",
+    "reading": "しゅうしょく",
+    "english": "finding employment, getting a job"
   },
   {
-    "Section": "",
-    "Japanese": "活動",
-    "Reading": "かつどう",
-    "English": "action, activity"
+    "section": "",
+    "japanese": "活動",
+    "reading": "かつどう",
+    "english": "action, activity"
   },
   {
-    "Section": "",
-    "Japanese": "わけ",
-    "Reading": "わけ",
-    "English": "conclusion from reasoning, judgement or calculation based on something read or heard, reason, cause, meaning, circumstances, situation"
+    "section": "",
+    "japanese": "わけ",
+    "reading": "わけ",
+    "english": "conclusion from reasoning, judgement or calculation based on something read or heard, reason, cause, meaning, circumstances, situation"
   },
   {
-    "Section": "",
-    "Japanese": "やっと",
-    "Reading": "やっと",
-    "English": "at last, at length"
+    "section": "",
+    "japanese": "やっと",
+    "reading": "やっと",
+    "english": "at last, at length"
   },
   {
-    "Section": "",
-    "Japanese": "目的",
-    "Reading": "もくてき",
-    "English": "purpose, goal, aim, objective, intention"
+    "section": "",
+    "japanese": "目的",
+    "reading": "もくてき",
+    "english": "purpose, goal, aim, objective, intention"
   },
   {
-    "Section": "",
-    "Japanese": "着く",
-    "Reading": "つく",
-    "English": "to arrive at, to reach"
+    "section": "",
+    "japanese": "着く",
+    "reading": "つく",
+    "english": "to arrive at, to reach"
   },
   {
-    "Section": "",
-    "Japanese": "緊張",
-    "Reading": "きんちょう",
-    "English": "tension, mental strain, nervousness"
+    "section": "",
+    "japanese": "緊張",
+    "reading": "きんちょう",
+    "english": "tension, mental strain, nervousness"
   },
   {
-    "Section": "",
-    "Japanese": "ドアホン",
-    "Reading": "ドアホン",
-    "English": "intercommunication system"
+    "section": "",
+    "japanese": "ドアホン",
+    "reading": "ドアホン",
+    "english": "intercommunication system"
   },
   {
-    "Section": "",
-    "Japanese": "押す",
-    "Reading": "おす",
-    "English": "to push, to press"
+    "section": "",
+    "japanese": "押す",
+    "reading": "おす",
+    "english": "to push, to press"
   },
   {
-    "Section": "",
-    "Japanese": "まもなく",
-    "Reading": "まもなく",
-    "English": "soon, before long, in a short time"
+    "section": "",
+    "japanese": "まもなく",
+    "reading": "まもなく",
+    "english": "soon, before long, in a short time"
   },
   {
-    "Section": "",
-    "Japanese": "開く",
-    "Reading": "ひらく",
-    "English": "to open, to undo, to unseal, to unpack"
+    "section": "",
+    "japanese": "開く",
+    "reading": "ひらく",
+    "english": "to open, to undo, to unseal, to unpack"
   },
   {
-    "Section": "",
-    "Japanese": "真っ白",
-    "Reading": "まっしろ",
-    "English": "pure white"
+    "section": "",
+    "japanese": "真っ白",
+    "reading": "まっしろ",
+    "english": "pure white"
   },
   {
-    "Section": "",
-    "Japanese": "髪",
-    "Reading": "かみ",
-    "English": "hair (on the head)"
+    "section": "",
+    "japanese": "髪",
+    "reading": "かみ",
+    "english": "hair (on the head)"
   },
   {
-    "Section": "",
-    "Japanese": "身長",
-    "Reading": "しんちょう",
-    "English": "height (of body), stature"
+    "section": "",
+    "japanese": "身長",
+    "reading": "しんちょう",
+    "english": "height (of body), stature"
   },
   {
-    "Section": "",
-    "Japanese": "大男",
-    "Reading": "おおおとこ",
-    "English": "great man, giant"
+    "section": "",
+    "japanese": "大男",
+    "reading": "おおおとこ",
+    "english": "great man, giant"
   },
   {
-    "Section": "",
-    "Japanese": "思わず",
-    "Reading": "おもわず",
-    "English": "unintentionally, reflexively, spontaneously, involuntarily, instinctively"
+    "section": "",
+    "japanese": "思わず",
+    "reading": "おもわず",
+    "english": "unintentionally, reflexively, spontaneously, involuntarily, instinctively"
   },
   {
-    "Section": "",
-    "Japanese": "どろぼう",
-    "Reading": "どろぼう",
-    "English": "thief, burglar, robber, theft"
+    "section": "",
+    "japanese": "どろぼう",
+    "reading": "どろぼう",
+    "english": "thief, burglar, robber, theft"
   },
   {
-    "Section": "",
-    "Japanese": "叫ん",
-    "Reading": "",
-    "English": "Shout Out Loud!"
+    "section": "",
+    "japanese": "叫ん",
+    "reading": "",
+    "english": "Shout Out Loud!"
   },
   {
-    "Section": "",
-    "Japanese": "夢",
-    "Reading": "ゆめ",
-    "English": "dream"
+    "section": "",
+    "japanese": "夢",
+    "reading": "ゆめ",
+    "english": "dream"
   },
   {
-    "Section": "",
-    "Japanese": "消える",
-    "Reading": "きえる",
-    "English": "to go out, to vanish, to disappear"
+    "section": "",
+    "japanese": "消える",
+    "reading": "きえる",
+    "english": "to go out, to vanish, to disappear"
   },
   {
-    "Section": "",
-    "Japanese": "意味",
-    "Reading": "いみ",
-    "English": "meaning, significance"
+    "section": "",
+    "japanese": "意味",
+    "reading": "いみ",
+    "english": "meaning, significance"
   },
   {
-    "Section": "",
-    "Japanese": "違う",
-    "Reading": "ちがう",
-    "English": "to differ (from), to vary"
+    "section": "",
+    "japanese": "違う",
+    "reading": "ちがう",
+    "english": "to differ (from), to vary"
   },
   {
-    "Section": "",
-    "Japanese": "呼ぶ",
-    "Reading": "よぶ",
-    "English": "to call out (to), to call, to invoke"
+    "section": "",
+    "japanese": "呼ぶ",
+    "reading": "よぶ",
+    "english": "to call out (to), to call, to invoke"
   },
   {
-    "Section": "",
-    "Japanese": "木枯らし",
-    "Reading": "こがらし",
-    "English": "cold wintry wind"
+    "section": "",
+    "japanese": "木枯らし",
+    "reading": "こがらし",
+    "english": "cold wintry wind"
   },
   {
-    "Section": "",
-    "Japanese": "季節",
-    "Reading": "きせつ",
-    "English": "season"
+    "section": "",
+    "japanese": "季節",
+    "reading": "きせつ",
+    "english": "season"
   },
   {
-    "Section": "",
-    "Japanese": "そろそろ",
-    "Reading": "そろそろ",
-    "English": "slowly, quietly, steadily, gradually, gingerly"
+    "section": "",
+    "japanese": "そろそろ",
+    "reading": "そろそろ",
+    "english": "slowly, quietly, steadily, gradually, gingerly"
   },
   {
-    "Section": "",
-    "Japanese": "吹く",
-    "Reading": "ふく",
-    "English": "to blow (e.g. wind), to play a wind instrument"
+    "section": "",
+    "japanese": "吹く",
+    "reading": "ふく",
+    "english": "to blow (e.g. wind), to play a wind instrument"
   },
   {
-    "Section": "",
-    "Japanese": "乾燥する",
-    "Reading": "かんそう",
-    "English": "dryness, aridity, drying (e.g. clothes), dehydration, desiccation"
+    "section": "",
+    "japanese": "乾燥する",
+    "reading": "かんそう",
+    "english": "dryness, aridity, drying (e.g. clothes), dehydration, desiccation"
   },
   {
-    "Section": "",
-    "Japanese": "乾い",
-    "Reading": "かわいた",
-    "English": "dry, parched"
+    "section": "",
+    "japanese": "乾い",
+    "reading": "かわいた",
+    "english": "dry, parched"
   },
   {
-    "Section": "",
-    "Japanese": "インフルエンザ",
-    "Reading": "インフルエンザ",
-    "English": "influenza"
+    "section": "",
+    "japanese": "インフルエンザ",
+    "reading": "インフルエンザ",
+    "english": "influenza"
   },
   {
-    "Section": "",
-    "Japanese": "など",
-    "Reading": "など",
-    "English": "et cetera, etc., and the like, and so forth"
+    "section": "",
+    "japanese": "など",
+    "reading": "など",
+    "english": "et cetera, etc., and the like, and so forth"
   },
   {
-    "Section": "",
-    "Japanese": "入り込む",
-    "Reading": "はいりこむ",
-    "English": "to go into, to come into, to penetrate, to get in, to step in (a house)"
+    "section": "",
+    "japanese": "入り込む",
+    "reading": "はいりこむ",
+    "english": "to go into, to come into, to penetrate, to get in, to step in (a house)"
   },
   {
-    "Section": "",
-    "Japanese": "皆様",
-    "Reading": "みなさま",
-    "English": "everyone"
+    "section": "",
+    "japanese": "皆様",
+    "reading": "みなさま",
+    "english": "everyone"
   },
   {
-    "Section": "",
-    "Japanese": "加湿器",
-    "Reading": "かしつき",
-    "English": "humidifier"
+    "section": "",
+    "japanese": "加湿器",
+    "reading": "かしつき",
+    "english": "humidifier"
   },
   {
-    "Section": "",
-    "Japanese": "おすすめ",
-    "Reading": "おすすめ",
-    "English": "recommendation, advice, suggestion, encouragement"
+    "section": "",
+    "japanese": "おすすめ",
+    "reading": "おすすめ",
+    "english": "recommendation, advice, suggestion, encouragement"
   },
   {
-    "Section": "",
-    "Japanese": "自動的",
-    "Reading": "じどうてき",
-    "English": "automatic"
+    "section": "",
+    "japanese": "自動的",
+    "reading": "じどうてき",
+    "english": "automatic"
   },
   {
-    "Section": "",
-    "Japanese": "室内",
-    "Reading": "しつない",
-    "English": "indoor, inside the room"
+    "section": "",
+    "japanese": "室内",
+    "reading": "しつない",
+    "english": "indoor, inside the room"
   },
   {
-    "Section": "",
-    "Japanese": "湿度",
-    "Reading": "しつど",
-    "English": "level of humidity"
+    "section": "",
+    "japanese": "湿度",
+    "reading": "しつど",
+    "english": "level of humidity"
   },
   {
-    "Section": "",
-    "Japanese": "調節する",
-    "Reading": "ちょうせつ",
-    "English": "regulation, adjustment, control"
+    "section": "",
+    "japanese": "調節する",
+    "reading": "ちょうせつ",
+    "english": "regulation, adjustment, control"
   },
   {
-    "Section": "",
-    "Japanese": "マイナスイオン",
-    "Reading": "マイナスイオン",
-    "English": "negative ion"
+    "section": "",
+    "japanese": "マイナスイオン",
+    "reading": "マイナスイオン",
+    "english": "negative ion"
   },
   {
-    "Section": "",
-    "Japanese": "快適",
-    "Reading": "かいてき",
-    "English": "pleasant, agreeable, comfortable"
+    "section": "",
+    "japanese": "快適",
+    "reading": "かいてき",
+    "english": "pleasant, agreeable, comfortable"
   },
   {
-    "Section": "",
-    "Japanese": "家族",
-    "Reading": "かぞく",
-    "English": "family, members of a family"
+    "section": "",
+    "japanese": "家族",
+    "reading": "かぞく",
+    "english": "family, members of a family"
   },
   {
-    "Section": "",
-    "Japanese": "一台",
-    "Reading": "いちだい",
-    "English": "one machine, one vehicle"
+    "section": "",
+    "japanese": "一台",
+    "reading": "いちだい",
+    "english": "one machine, one vehicle"
   },
   {
-    "Section": "",
-    "Japanese": "求める",
-    "Reading": "もとめる",
-    "English": "to want, to wish for"
+    "section": "",
+    "japanese": "求める",
+    "reading": "もとめる",
+    "english": "to want, to wish for"
   },
   {
-    "Section": "",
-    "Japanese": "やり取り",
-    "Reading": "やりとり",
-    "English": "giving and taking, exchange (of letters), arguing back and forth, (conversational) exchange"
+    "section": "",
+    "japanese": "やり取り",
+    "reading": "やりとり",
+    "english": "giving and taking, exchange (of letters), arguing back and forth, (conversational) exchange"
   },
   {
-    "Section": "",
-    "Japanese": "経つ",
-    "Reading": "たつ",
-    "English": "to pass (of time), to elapse"
+    "section": "",
+    "japanese": "経つ",
+    "reading": "たつ",
+    "english": "to pass (of time), to elapse"
   },
   {
-    "Section": "",
-    "Japanese": "信じられる",
-    "Reading": "しんじる",
-    "English": "to believe, to believe in, to place trust in, to confide in, to have faith in"
+    "section": "",
+    "japanese": "信じられる",
+    "reading": "しんじる",
+    "english": "to believe, to believe in, to place trust in, to confide in, to have faith in"
   },
   {
-    "Section": "",
-    "Japanese": "なんて",
-    "Reading": "なんて",
-    "English": "how ..!, what ..!"
+    "section": "",
+    "japanese": "なんて",
+    "reading": "なんて",
+    "english": "how ..!, what ..!"
   },
   {
-    "Section": "",
-    "Japanese": "一度",
-    "Reading": "いちど",
-    "English": "once, one time, on one occasion"
+    "section": "",
+    "japanese": "一度",
+    "reading": "いちど",
+    "english": "once, one time, on one occasion"
   },
   {
-    "Section": "",
-    "Japanese": "話",
-    "Reading": "はなし",
-    "English": "talk, speech, chat, story, conversation"
+    "section": "",
+    "japanese": "話",
+    "reading": "はなし",
+    "english": "talk, speech, chat, story, conversation"
   },
   {
-    "Section": "",
-    "Japanese": "悩める",
-    "Reading": "なやむ",
-    "English": "to be worried, to be troubled"
+    "section": "",
+    "japanese": "悩める",
+    "reading": "なやむ",
+    "english": "to be worried, to be troubled"
   },
   {
-    "Section": "",
-    "Japanese": "日間",
-    "Reading": "にっかん",
-    "English": "daytime, during the day"
+    "section": "",
+    "japanese": "日間",
+    "reading": "にっかん",
+    "english": "daytime, during the day"
   },
   {
-    "Section": "",
-    "Japanese": "正直",
-    "Reading": "しょうじき",
-    "English": "honest, frank, candid, straightforward"
+    "section": "",
+    "japanese": "正直",
+    "reading": "しょうじき",
+    "english": "honest, frank, candid, straightforward"
   },
   {
-    "Section": "",
-    "Japanese": "正直に言うと",
-    "Reading": "しょうじきにいうと",
-    "English": "to be honest"
+    "section": "",
+    "japanese": "正直に言うと",
+    "reading": "しょうじきにいうと",
+    "english": "to be honest"
   },
   {
-    "Section": "",
-    "Japanese": "一方で",
-    "Reading": "いっぽうで",
-    "English": "on the other hand"
+    "section": "",
+    "japanese": "一方で",
+    "reading": "いっぽうで",
+    "english": "on the other hand"
   },
   {
-    "Section": "",
-    "Japanese": "気持ち",
-    "Reading": "きもち",
-    "English": "feeling, sensation, mood"
+    "section": "",
+    "japanese": "気持ち",
+    "reading": "きもち",
+    "english": "feeling, sensation, mood"
   },
   {
-    "Section": "",
-    "Japanese": "がっかり",
-    "Reading": "がっかり",
-    "English": "feel disappointed, dejected, lose heart, feel emotionally drained, feel let down"
+    "section": "",
+    "japanese": "がっかり",
+    "reading": "がっかり",
+    "english": "feel disappointed, dejected, lose heart, feel emotionally drained, feel let down"
   },
   {
-    "Section": "",
-    "Japanese": "会ってがっかり",
-    "Reading": "あってがっかり",
-    "English": "disappointed to meet"
+    "section": "",
+    "japanese": "会ってがっかり",
+    "reading": "あってがっかり",
+    "english": "disappointed to meet"
   },
   {
-    "Section": "",
-    "Japanese": "される",
-    "Reading": "される",
-    "English": "to be done (to someone)"
+    "section": "",
+    "japanese": "される",
+    "reading": "される",
+    "english": "to be done (to someone)"
   },
   {
-    "Section": "",
-    "Japanese": "このまま",
-    "Reading": "このまま",
-    "English": "as is, as it is, as things are, like this, this way, at this rate"
+    "section": "",
+    "japanese": "このまま",
+    "reading": "このまま",
+    "english": "as is, as it is, as things are, like this, this way, at this rate"
   },
   {
-    "Section": "",
-    "Japanese": "ネット上",
-    "Reading": "ネットじょう",
-    "English": "(on the) net, (on the) Internet, (on the) Web"
+    "section": "",
+    "japanese": "ネット上",
+    "reading": "ネットじょう",
+    "english": "(on the) net, (on the) Internet, (on the) Web"
   },
   {
-    "Section": "",
-    "Japanese": "お付き合い",
-    "Reading": "おつきあい",
-    "English": "association, socializing, socialising, fellowship"
+    "section": "",
+    "japanese": "お付き合い",
+    "reading": "おつきあい",
+    "english": "association, socializing, socialising, fellowship"
   },
   {
-    "Section": "",
-    "Japanese": "一度会いませんか",
-    "Reading": "いちどあいませんか",
-    "English": "would you like to meet just once"
+    "section": "",
+    "japanese": "一度会いませんか",
+    "reading": "いちどあいませんか",
+    "english": "would you like to meet just once"
   },
   {
-    "Section": "",
-    "Japanese": "娘",
-    "Reading": "むすめ",
-    "English": "(my) daughter"
+    "section": "",
+    "japanese": "娘",
+    "reading": "むすめ",
+    "english": "(my) daughter"
   },
   {
-    "Section": "",
-    "Japanese": "携帯",
-    "Reading": "けいたい",
-    "English": "something carried (in the hand), handheld, portable"
+    "section": "",
+    "japanese": "携帯",
+    "reading": "けいたい",
+    "english": "something carried (in the hand), handheld, portable"
   },
   {
-    "Section": "",
-    "Japanese": "欲しい",
-    "Reading": "ほしい",
-    "English": "wanted, wished for, in need of, desired"
+    "section": "",
+    "japanese": "欲しい",
+    "reading": "ほしい",
+    "english": "wanted, wished for, in need of, desired"
   },
   {
-    "Section": "",
-    "Japanese": "反対",
-    "Reading": "はんたい",
-    "English": "opposition, resistance, antagonism, hostility, objection, dissent"
+    "section": "",
+    "japanese": "反対",
+    "reading": "はんたい",
+    "english": "opposition, resistance, antagonism, hostility, objection, dissent"
   },
   {
-    "Section": "",
-    "Japanese": "与える",
-    "Reading": "あたえる",
-    "English": "to give (esp. to someone of lower status), to bestow, to grant, to confer, to present, to award"
+    "section": "",
+    "japanese": "与える",
+    "reading": "あたえる",
+    "english": "to give (esp. to someone of lower status), to bestow, to grant, to confer, to present, to award"
   },
   {
-    "Section": "",
-    "Japanese": "通い",
-    "Reading": "かよい",
-    "English": "coming and going, commuting"
+    "section": "",
+    "japanese": "通い",
+    "reading": "かよい",
+    "english": "coming and going, commuting"
   },
   {
-    "Section": "",
-    "Japanese": "近所",
-    "Reading": "きんじょ",
-    "English": "neighbourhood, neighborhood"
+    "section": "",
+    "japanese": "近所",
+    "reading": "きんじょ",
+    "english": "neighbourhood, neighborhood"
   },
   {
-    "Section": "",
-    "Japanese": "遠く",
-    "Reading": "とおく",
-    "English": "far away, distant, at a distance, distant place, by far"
+    "section": "",
+    "japanese": "遠く",
+    "reading": "とおく",
+    "english": "far away, distant, at a distance, distant place, by far"
   },
   {
-    "Section": "",
-    "Japanese": "必要",
-    "Reading": "ひつよう",
-    "English": "necessary, needed, essential, indispensable"
+    "section": "",
+    "japanese": "必要",
+    "reading": "ひつよう",
+    "english": "necessary, needed, essential, indispensable"
   },
   {
-    "Section": "",
-    "Japanese": "何度",
-    "Reading": "なんど",
-    "English": "how many times?, how often?"
+    "section": "",
+    "japanese": "何度",
+    "reading": "なんど",
+    "english": "how many times?, how often?"
   },
   {
-    "Section": "",
-    "Japanese": "返事",
-    "Reading": "へんじ",
-    "English": "reply, answer, response"
+    "section": "",
+    "japanese": "返事",
+    "reading": "へんじ",
+    "english": "reply, answer, response"
   },
   {
-    "Section": "",
-    "Japanese": "繰り替え",
-    "Reading": "くりかえる",
-    "English": "to exchange"
+    "section": "",
+    "japanese": "繰り替え",
+    "reading": "くりかえる",
+    "english": "to exchange"
   },
   {
-    "Section": "",
-    "Japanese": "動",
-    "Reading": "どう",
-    "English": "motion, change, confusion"
+    "section": "",
+    "japanese": "動",
+    "reading": "どう",
+    "english": "motion, change, confusion"
   },
   {
-    "Section": "",
-    "Japanese": "習慣",
-    "Reading": "しゅうかん",
-    "English": "habit"
+    "section": "",
+    "japanese": "習慣",
+    "reading": "しゅうかん",
+    "english": "habit"
   },
   {
-    "Section": "",
-    "Japanese": "普通",
-    "Reading": "ふつう",
-    "English": "general, ordinary, usual"
+    "section": "",
+    "japanese": "普通",
+    "reading": "ふつう",
+    "english": "general, ordinary, usual"
   },
   {
-    "Section": "",
-    "Japanese": "ちゃんと",
-    "Reading": "ちゃんと",
-    "English": "diligently, seriously, earnestly, reliably, steadily, legitimately"
+    "section": "",
+    "japanese": "ちゃんと",
+    "reading": "ちゃんと",
+    "english": "diligently, seriously, earnestly, reliably, steadily, legitimately"
   },
   {
-    "Section": "",
-    "Japanese": "約束",
-    "Reading": "やくそく",
-    "English": "promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date"
+    "section": "",
+    "japanese": "約束",
+    "reading": "やくそく",
+    "english": "promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date"
   },
   {
-    "Section": "",
-    "Japanese": "話者",
-    "Reading": "わしゃ",
-    "English": "speaker, narrator"
+    "section": "",
+    "japanese": "話者",
+    "reading": "わしゃ",
+    "english": "speaker, narrator"
   },
   {
-    "Section": "",
-    "Japanese": "希望",
-    "Reading": "きぼう",
-    "English": "hope, wish, aspiration"
+    "section": "",
+    "japanese": "希望",
+    "reading": "きぼう",
+    "english": "hope, wish, aspiration"
   },
   {
-    "Section": "",
-    "Japanese": "意向",
-    "Reading": "いこう",
-    "English": "intention, idea, inclination"
+    "section": "",
+    "japanese": "意向",
+    "reading": "いこう",
+    "english": "intention, idea, inclination"
   },
   {
-    "Section": "",
-    "Japanese": "表す",
-    "Reading": "あらわす",
-    "English": "to represent, to signify, to stand for"
+    "section": "",
+    "japanese": "表す",
+    "reading": "あらわす",
+    "english": "to represent, to signify, to stand for"
   },
   {
-    "Section": "",
-    "Japanese": "働きかけ",
-    "Reading": "はたらきかけ",
-    "English": "pressure, encouragement, urging, promoting"
+    "section": "",
+    "japanese": "働きかけ",
+    "reading": "はたらきかけ",
+    "english": "pressure, encouragement, urging, promoting"
   },
   {
-    "Section": "",
-    "Japanese": "登る",
-    "Reading": "のぼる",
-    "English": "to ascend, to go up, to climb"
+    "section": "",
+    "japanese": "登る",
+    "reading": "のぼる",
+    "english": "to ascend, to go up, to climb"
   },
   {
-    "Section": "",
-    "Japanese": "溶けない",
-    "Reading": "とける",
-    "English": "to melt, to thaw, to fuse, to dissolve"
+    "section": "",
+    "japanese": "溶けない",
+    "reading": "とける",
+    "english": "to melt, to thaw, to fuse, to dissolve"
   },
   {
-    "Section": "",
-    "Japanese": "庭",
-    "Reading": "にわ",
-    "English": "garden, yard, courtyard"
+    "section": "",
+    "japanese": "庭",
+    "reading": "にわ",
+    "english": "garden, yard, courtyard"
   },
   {
-    "Section": "",
-    "Japanese": "掃除",
-    "Reading": "そうじ",
-    "English": "cleaning, sweeping, dusting, scrubbing"
+    "section": "",
+    "japanese": "掃除",
+    "reading": "そうじ",
+    "english": "cleaning, sweeping, dusting, scrubbing"
   },
   {
-    "Section": "",
-    "Japanese": "重ねる",
-    "Reading": "かさねる",
-    "English": "to pile up, to put something on top of another, to stack up"
+    "section": "",
+    "japanese": "重ねる",
+    "reading": "かさねる",
+    "english": "to pile up, to put something on top of another, to stack up"
   },
   {
-    "Section": "",
-    "Japanese": "弾ける",
-    "Reading": "はじける",
-    "English": "to burst open, to split open, to pop"
+    "section": "",
+    "japanese": "弾ける",
+    "reading": "はじける",
+    "english": "to burst open, to split open, to pop"
   },
   {
-    "Section": "",
-    "Japanese": "気がつかない",
-    "Reading": "きがつく",
-    "English": "to notice, to become aware, to perceive, to realize, to realise"
+    "section": "",
+    "japanese": "気がつかない",
+    "reading": "きがつく",
+    "english": "to notice, to become aware, to perceive, to realize, to realise"
   },
   {
-    "Section": "",
-    "Japanese": "昼寝",
-    "Reading": "ひるね",
-    "English": "nap (afternoon), siesta"
+    "section": "",
+    "japanese": "昼寝",
+    "reading": "ひるね",
+    "english": "nap (afternoon), siesta"
   },
   {
-    "Section": "",
-    "Japanese": "留守",
-    "Reading": "るす",
-    "English": "absence, being away from home"
+    "section": "",
+    "japanese": "留守",
+    "reading": "るす",
+    "english": "absence, being away from home"
   },
   {
-    "Section": "",
-    "Japanese": "世話",
-    "Reading": "せわ",
-    "English": "looking after, help, aid, assistance"
+    "section": "",
+    "japanese": "世話",
+    "reading": "せわ",
+    "english": "looking after, help, aid, assistance"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "まじめで",
-    "Reading": "まじめ",
-    "English": "serious, honest, sober, grave, earnest, steady"
+    "section": "Japanese Economy",
+    "japanese": "まじめで",
+    "reading": "まじめ",
+    "english": "serious, honest, sober, grave, earnest, steady"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "技術力",
-    "Reading": "ぎじゅつりょく",
-    "English": "technical prowess, technical ability, technical finesse"
+    "section": "Japanese Economy",
+    "japanese": "技術力",
+    "reading": "ぎじゅつりょく",
+    "english": "technical prowess, technical ability, technical finesse"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "世界的に",
-    "Reading": "せかいてき",
-    "English": "worldwide, global, international, universal"
+    "section": "Japanese Economy",
+    "japanese": "世界的に",
+    "reading": "せかいてき",
+    "english": "worldwide, global, international, universal"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "評価",
-    "Reading": "ひょうか",
-    "English": "valuation, estimation, assessment, evaluation, rating"
+    "section": "Japanese Economy",
+    "japanese": "評価",
+    "reading": "ひょうか",
+    "english": "valuation, estimation, assessment, evaluation, rating"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "資源",
-    "Reading": "しげん",
-    "English": "resources"
+    "section": "Japanese Economy",
+    "japanese": "資源",
+    "reading": "しげん",
+    "english": "resources"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "関係",
-    "Reading": "かんけい",
-    "English": "relation, relationship, connection"
+    "section": "Japanese Economy",
+    "japanese": "関係",
+    "reading": "かんけい",
+    "english": "relation, relationship, connection"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "石油",
-    "Reading": "せきゆ",
-    "English": "oil, petroleum, kerosene"
+    "section": "Japanese Economy",
+    "japanese": "石油",
+    "reading": "せきゆ",
+    "english": "oil, petroleum, kerosene"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "鉄鉱石",
-    "Reading": "てっこうせき",
-    "English": "iron ore"
+    "section": "Japanese Economy",
+    "japanese": "鉄鉱石",
+    "reading": "てっこうせき",
+    "english": "iron ore"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "製品",
-    "Reading": "せいひん",
-    "English": "manufactured goods, finished goods, product"
+    "section": "Japanese Economy",
+    "japanese": "製品",
+    "reading": "せいひん",
+    "english": "manufactured goods, finished goods, product"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "原材料",
-    "Reading": "げんざいりょう",
-    "English": "raw materials, ingredients"
+    "section": "Japanese Economy",
+    "japanese": "原材料",
+    "reading": "げんざいりょう",
+    "english": "raw materials, ingredients"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "輸出",
-    "Reading": "ゆしゅつ",
-    "English": "export, exportation"
+    "section": "Japanese Economy",
+    "japanese": "輸出",
+    "reading": "ゆしゅつ",
+    "english": "export, exportation"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "利益",
-    "Reading": "りえき",
-    "English": "profit, gains"
+    "section": "Japanese Economy",
+    "japanese": "利益",
+    "reading": "りえき",
+    "english": "profit, gains"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "得る",
-    "Reading": "える",
-    "English": "to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain, to win"
+    "section": "Japanese Economy",
+    "japanese": "得る",
+    "reading": "える",
+    "english": "to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain, to win"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "それら",
-    "Reading": "それら",
-    "English": "those (near the second person)"
+    "section": "Japanese Economy",
+    "japanese": "それら",
+    "reading": "それら",
+    "english": "those (near the second person)"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "輸入",
-    "Reading": "ゆにゅう",
-    "English": "import, importation, introduction"
+    "section": "Japanese Economy",
+    "japanese": "輸入",
+    "reading": "ゆにゅう",
+    "english": "import, importation, introduction"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "高める",
-    "Reading": "たかめる",
-    "English": "to raise, to lift, to boost, to enhance"
+    "section": "Japanese Economy",
+    "japanese": "高める",
+    "reading": "たかめる",
+    "english": "to raise, to lift, to boost, to enhance"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "にとって",
-    "Reading": "にとって",
-    "English": "to, for, concerning, as far as ... is concerned, regarding"
+    "section": "Japanese Economy",
+    "japanese": "にとって",
+    "reading": "にとって",
+    "english": "to, for, concerning, as far as ... is concerned, regarding"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "必ずしも",
-    "Reading": "かならずしも",
-    "English": "not always, not necessarily, not all, not entirely"
+    "section": "Japanese Economy",
+    "japanese": "必ずしも",
+    "reading": "かならずしも",
+    "english": "not always, not necessarily, not all, not entirely"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "において",
-    "Reading": "において",
-    "English": "in, on, at (place), as for, regarding"
+    "section": "Japanese Economy",
+    "japanese": "において",
+    "reading": "において",
+    "english": "in, on, at (place), as for, regarding"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "おかげで",
-    "Reading": "おかげで",
-    "English": "thanks to ..., owing to ..., because of ..."
+    "section": "Japanese Economy",
+    "japanese": "おかげで",
+    "reading": "おかげで",
+    "english": "thanks to ..., owing to ..., because of ..."
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "国民性",
-    "Reading": "こくみんせい",
-    "English": "national traits or character, nationality"
+    "section": "Japanese Economy",
+    "japanese": "国民性",
+    "reading": "こくみんせい",
+    "english": "national traits or character, nationality"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "ようになる",
-    "Reading": "ようになる",
-    "English": "to reach the point that, to come to be that, to turn into"
+    "section": "Japanese Economy",
+    "japanese": "ようになる",
+    "reading": "ようになる",
+    "english": "to reach the point that, to come to be that, to turn into"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "下線部",
-    "Reading": "かせんぶ",
-    "English": "underlined part"
+    "section": "Japanese Economy",
+    "japanese": "下線部",
+    "reading": "かせんぶ",
+    "english": "underlined part"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "適切",
-    "Reading": "てきせつ",
-    "English": "pertinent, appropriate, adequate, relevance"
+    "section": "Japanese Economy",
+    "japanese": "適切",
+    "reading": "てきせつ",
+    "english": "pertinent, appropriate, adequate, relevance"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "長雨",
-    "Reading": "ながあめ",
-    "English": "long spell of rain"
+    "section": "Japanese Economy",
+    "japanese": "長雨",
+    "reading": "ながあめ",
+    "english": "long spell of rain"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "値段",
-    "Reading": "ねだん",
-    "English": "price, cost"
+    "section": "Japanese Economy",
+    "japanese": "値段",
+    "reading": "ねだん",
+    "english": "price, cost"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "合格",
-    "Reading": "ごうかく",
-    "English": "success, passing (e.g. exam), eligibility"
+    "section": "Japanese Economy",
+    "japanese": "合格",
+    "reading": "ごうかく",
+    "english": "success, passing (e.g. exam), eligibility"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "指導",
-    "Reading": "しどう",
-    "English": "guidance, leadership, instruction, direction, coaching"
+    "section": "Japanese Economy",
+    "japanese": "指導",
+    "reading": "しどう",
+    "english": "guidance, leadership, instruction, direction, coaching"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "存在",
-    "Reading": "そんざい",
-    "English": "existence, being"
+    "section": "Japanese Economy",
+    "japanese": "存在",
+    "reading": "そんざい",
+    "english": "existence, being"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "従う",
-    "Reading": "したがう",
-    "English": "to obey (an order, law, etc.), to abide by (a rule, custom, etc.), to follow, to observe, to conform to, to yield to"
+    "section": "Japanese Economy",
+    "japanese": "従う",
+    "reading": "したがう",
+    "english": "to obey (an order, law, etc.), to abide by (a rule, custom, etc.), to follow, to observe, to conform to, to yield to"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "不幸",
-    "Reading": "ふこう",
-    "English": "unhappiness, sorrow, misfortune, disaster, accident"
+    "section": "Japanese Economy",
+    "japanese": "不幸",
+    "reading": "ふこう",
+    "english": "unhappiness, sorrow, misfortune, disaster, accident"
   },
   {
-    "Section": "Japanese Economy",
-    "Japanese": "正解",
-    "Reading": "せいかい",
-    "English": "correct, right, correct interpretation (answer, solution)"
+    "section": "Japanese Economy",
+    "japanese": "正解",
+    "reading": "せいかい",
+    "english": "correct, right, correct interpretation (answer, solution)"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "遅刻",
-    "Reading": "ちこく",
-    "English": "lateness, late coming"
+    "section": "Late on Sunday",
+    "japanese": "遅刻",
+    "reading": "ちこく",
+    "english": "lateness, late coming"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "加えられる",
-    "Reading": "くわえる",
-    "English": "to add, to add up, to sum up, to append, to annex"
+    "section": "Late on Sunday",
+    "japanese": "加えられる",
+    "reading": "くわえる",
+    "english": "to add, to add up, to sum up, to append, to annex"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "最悪",
-    "Reading": "さいあく",
-    "English": "worst"
+    "section": "Late on Sunday",
+    "japanese": "最悪",
+    "reading": "さいあく",
+    "english": "worst"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "目覚まし時計",
-    "Reading": "めざましどけい",
-    "English": "alarm clock"
+    "section": "Late on Sunday",
+    "japanese": "目覚まし時計",
+    "reading": "めざましどけい",
+    "english": "alarm clock"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "はず",
-    "Reading": "はず",
-    "English": "expectation that something took place, will take place or was in some state, it should be so, bound to be, expected to be, must be"
+    "section": "Late on Sunday",
+    "japanese": "はず",
+    "reading": "はず",
+    "english": "expectation that something took place, will take place or was in some state, it should be so, bound to be, expected to be, must be"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "寝坊",
-    "Reading": "ねぼう",
-    "English": "sleeping in late, oversleeping"
+    "section": "Late on Sunday",
+    "japanese": "寝坊",
+    "reading": "ねぼう",
+    "english": "sleeping in late, oversleeping"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "つもりで",
-    "Reading": "つもりである",
-    "English": "to intend"
+    "section": "Late on Sunday",
+    "japanese": "つもりで",
+    "reading": "つもりである",
+    "english": "to intend"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "並んだ",
-    "Reading": "ならぶ",
-    "English": "to line up, to stand in a line"
+    "section": "Late on Sunday",
+    "japanese": "並んだ",
+    "reading": "ならぶ",
+    "english": "to line up, to stand in a line"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "なかなか",
-    "Reading": "なかなか",
-    "English": "very, considerably, easily, readily, fairly, quite, highly, rather"
+    "section": "Late on Sunday",
+    "japanese": "なかなか",
+    "reading": "なかなか",
+    "english": "very, considerably, easily, readily, fairly, quite, highly, rather"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "時刻表",
-    "Reading": "じこくひょう",
-    "English": "timetable, schedule"
+    "section": "Late on Sunday",
+    "japanese": "時刻表",
+    "reading": "じこくひょう",
+    "english": "timetable, schedule"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "間隔",
-    "Reading": "かんかく",
-    "English": "space, interval"
+    "section": "Late on Sunday",
+    "japanese": "間隔",
+    "reading": "かんかく",
+    "english": "space, interval"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "なんと",
-    "Reading": "なんと",
-    "English": "what, how, whatever"
+    "section": "Late on Sunday",
+    "japanese": "なんと",
+    "reading": "なんと",
+    "english": "what, how, whatever"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "遅刻",
-    "Reading": "ちこく",
-    "English": "lateness, late coming"
+    "section": "Late on Sunday",
+    "japanese": "遅刻",
+    "reading": "ちこく",
+    "english": "lateness, late coming"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "この前",
-    "Reading": "このまえ",
-    "English": "some time ago, recently, lately"
+    "section": "Late on Sunday",
+    "japanese": "この前",
+    "reading": "このまえ",
+    "english": "some time ago, recently, lately"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "上司",
-    "Reading": "じょうし",
-    "English": "(one's) superior, (one's) boss, the higher-ups"
+    "section": "Late on Sunday",
+    "japanese": "上司",
+    "reading": "じょうし",
+    "english": "(one's) superior, (one's) boss, the higher-ups"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "余裕",
-    "Reading": "よゆう",
-    "English": "surplus, margin, leeway, room, space, time, allowance, flexibility, scope"
+    "section": "Late on Sunday",
+    "japanese": "余裕",
+    "reading": "よゆう",
+    "english": "surplus, margin, leeway, room, space, time, allowance, flexibility, scope"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "ように",
-    "Reading": "ように",
-    "English": "in order to (e.g. meet goal), so that, take care (so as)"
+    "section": "Late on Sunday",
+    "japanese": "ように",
+    "reading": "ように",
+    "english": "in order to (e.g. meet goal), so that, take care (so as)"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "ばかり",
-    "Reading": "ばかり",
-    "English": "only, merely, nothing but, no more than"
+    "section": "Late on Sunday",
+    "japanese": "ばかり",
+    "reading": "ばかり",
+    "english": "only, merely, nothing but, no more than"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "ちっとも",
-    "Reading": "ちっとも",
-    "English": "not at all (neg. verb)"
+    "section": "Late on Sunday",
+    "japanese": "ちっとも",
+    "reading": "ちっとも",
+    "english": "not at all (neg. verb)"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "進歩",
-    "Reading": "しんぽ",
-    "English": "progress, advance, improvement, development"
+    "section": "Late on Sunday",
+    "japanese": "進歩",
+    "reading": "しんぽ",
+    "english": "progress, advance, improvement, development"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "怒られる",
-    "Reading": "おこる",
-    "English": "to get angry, to get mad"
+    "section": "Late on Sunday",
+    "japanese": "怒られる",
+    "reading": "おこる",
+    "english": "to get angry, to get mad"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "様子",
-    "Reading": "ようす",
-    "English": "state, state of affairs, situation, circumstances"
+    "section": "Late on Sunday",
+    "japanese": "様子",
+    "reading": "ようす",
+    "english": "state, state of affairs, situation, circumstances"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "目に浮かぶ",
-    "Reading": "めにうかぶ",
-    "English": "to picture, to come into one's mind, to remember"
+    "section": "Late on Sunday",
+    "japanese": "目に浮かぶ",
+    "reading": "めにうかぶ",
+    "english": "to picture, to come into one's mind, to remember"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "大事",
-    "Reading": "だいじ",
-    "English": "important, serious, crucial"
+    "section": "Late on Sunday",
+    "japanese": "大事",
+    "reading": "だいじ",
+    "english": "important, serious, crucial"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "通り",
-    "Reading": "とおり",
-    "English": "avenue, street, way, road"
+    "section": "Late on Sunday",
+    "japanese": "通り",
+    "reading": "とおり",
+    "english": "avenue, street, way, road"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "済む",
-    "Reading": "すむ",
-    "English": "to finish, to end, to be completed"
+    "section": "Late on Sunday",
+    "japanese": "済む",
+    "reading": "すむ",
+    "english": "to finish, to end, to be completed"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "随分",
-    "Reading": "ずいぶん",
-    "English": "very, extremely, surprisingly, considerably, awfully, terribly"
+    "section": "Late on Sunday",
+    "japanese": "随分",
+    "reading": "ずいぶん",
+    "english": "very, extremely, surprisingly, considerably, awfully, terribly"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "無駄",
-    "Reading": "むだ",
-    "English": "futility, waste, uselessness, pointlessness, idleness"
+    "section": "Late on Sunday",
+    "japanese": "無駄",
+    "reading": "むだ",
+    "english": "futility, waste, uselessness, pointlessness, idleness"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "得",
-    "Reading": "とく",
-    "English": "profit, advantage, benefit, gain"
+    "section": "Late on Sunday",
+    "japanese": "得",
+    "reading": "とく",
+    "english": "profit, advantage, benefit, gain"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "損",
-    "Reading": "そん",
-    "English": "loss, damage, harm, unprofitable"
+    "section": "Late on Sunday",
+    "japanese": "損",
+    "reading": "そん",
+    "english": "loss, damage, harm, unprofitable"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "複雑",
-    "Reading": "ふくざつ",
-    "English": "complex, complicated, intricate, mixed (feelings)"
+    "section": "Late on Sunday",
+    "japanese": "複雑",
+    "reading": "ふくざつ",
+    "english": "complex, complicated, intricate, mixed (feelings)"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "地位",
-    "Reading": "ちい",
-    "English": "(social) position, status"
+    "section": "Late on Sunday",
+    "japanese": "地位",
+    "reading": "ちい",
+    "english": "(social) position, status"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "簡単",
-    "Reading": "かんたん",
-    "English": "simple, easy, uncomplicated"
+    "section": "Late on Sunday",
+    "japanese": "簡単",
+    "reading": "かんたん",
+    "english": "simple, easy, uncomplicated"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "想像",
-    "Reading": "そうぞう",
-    "English": "imagination, guess"
+    "section": "Late on Sunday",
+    "japanese": "想像",
+    "reading": "そうぞう",
+    "english": "imagination, guess"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "急がなく",
-    "Reading": "いそがなく",
-    "English": "without a hurry"
+    "section": "Late on Sunday",
+    "japanese": "急がなく",
+    "reading": "いそがなく",
+    "english": "without a hurry"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "文型",
-    "Reading": "ぶんけい",
-    "English": "sentence pattern"
+    "section": "Late on Sunday",
+    "japanese": "文型",
+    "reading": "ぶんけい",
+    "english": "sentence pattern"
   },
   {
-    "Section": "Late on Sunday",
-    "Japanese": "含まれる",
-    "Reading": "ふくまれる",
-    "English": "to be included, to be composed of, to be comprised of"
+    "section": "Late on Sunday",
+    "japanese": "含まれる",
+    "reading": "ふくまれる",
+    "english": "to be included, to be composed of, to be comprised of"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "掴む",
+    "reading": "つかむ",
+    "english": "to seize, to catch, to grasp, to grip, to grab, to clutch, to hold, to catch hold of, to lay one's hands on"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "家族",
+    "reading": "かぞく",
+    "english": "family, members of a family"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "飼う",
+    "reading": "かう",
+    "english": "to keep (a pet or other animal), to have, to own, to raise, to rear, to feed"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "どのような",
+    "reading": "どのような",
+    "english": "what kind of"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "関係",
+    "reading": "かんけい",
+    "english": "relation, relationship, connection"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "さまざま",
+    "reading": "さまざま",
+    "english": "varied, various"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "種類",
+    "reading": "しゅるい",
+    "english": "variety, kind, type, category"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "一員",
+    "reading": "いちいん",
+    "english": "person, member"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "扱われる",
+    "reading": "あつかう",
+    "english": "to deal with (a person), to treat, to handle, to take care of, to entertain"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "以前",
+    "reading": "いぜん",
+    "english": "ago, since, before, previous"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "また",
+    "reading": "また",
+    "english": "again, and, also, still (doing something)"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "着せる",
+    "reading": "きせる",
+    "english": "to put clothes on (someone)"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "なら",
+    "reading": "なら",
+    "english": "if, in case, if it is the case that, if it is true that"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "だんだん",
+    "reading": "だんだん",
+    "english": "gradually, by degrees, little by little, more and more, increasingly"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "大きくなる",
+    "reading": "おおきくなる",
+    "english": "to grow up, to become an adult"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "つれて",
+    "reading": "つれて",
+    "english": "as, in proportion to"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "dictionary + に",
+    "reading": "dictionary + に",
+    "english": "For the purpose of..."
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "反抗",
+    "reading": "はんこう",
+    "english": "opposition, resistance, insubordination, defiance, hostility, rebellion"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "親",
+    "reading": "おや",
+    "english": "parent, parents, mother and father"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "~こともある",
+    "reading": "~こともある",
+    "english": "it happens / takes place sometimes"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "~するなんて",
+    "reading": "~するなんて",
+    "english": "surprisingly"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "いつまで",
+    "reading": "いつまで",
+    "english": "how long?, till when?"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "純粋",
+    "reading": "じゅんすい",
+    "english": "pure, true, genuine, unmixed"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "存在",
+    "reading": "そんざい",
+    "english": "existence, being"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "～だろうか",
+    "reading": "～だろうか",
+    "english": "I wonder whether or not (some clause)"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "～ではないだろうか",
+    "reading": "～ではないだろうか",
+    "english": "I think (some clause), isn't it?"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "～だろう",
+    "reading": "～だろう",
+    "english": "I think (some clause).\" The speaker thinks the clause is probably (or almost certainly) true."
+  },
+  {
+    "section": "Grammar",
+    "japanese": "～ではないだろう",
+    "reading": "～ではないだろう",
+    "english": "I don't think (some clause).\" The speaker thinks the clause is probably not true."
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "愛される",
+    "reading": "あいされる",
+    "english": "to be loved"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "かわいがる",
+    "reading": "かわいがる",
+    "english": "to love, to cherish, to be affectionate to, to treat tenderly, to dote on"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "今では",
+    "reading": "いまでは",
+    "english": "now, nowadays"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "として",
+    "reading": "として",
+    "english": "as (i.e. in the role of), for (i.e. from the viewpoint of)"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "連れて行く",
+    "reading": "つれていく",
+    "english": "to take someone (to some place), to take someone along, to lead someone away"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "plainところ",
+    "reading": "plainところ",
+    "english": "just about to do"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "しかし",
+    "reading": "しかし",
+    "english": "however, but"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "いつまでも",
+    "reading": "いつまでも",
+    "english": "forever, for good, eternally, as long as one likes, indefinitely, no matter what"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "適当",
+    "reading": "てきとう",
+    "english": "suitable, proper, appropriate, adequate, fit, fair"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "世話",
+    "reading": "せわ",
+    "english": "looking after, help, aid, assistance"
+  },
+  {
+    "section": "Family Dog",
+    "japanese": "理由",
+    "reading": "りゆう",
+    "english": "reason, pretext, motive"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "年寄り",
+    "reading": "としより",
+    "english": "old person, elderly person, senior citizen"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "席",
+    "reading": "せき",
+    "english": "seat"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "譲ろ",
+    "reading": "ゆずる",
+    "english": "to hand over, to transfer, to turn over, to assign, to convey, to bequeath"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "断われる",
+    "reading": "ことわる",
+    "english": "to refuse, to reject, to dismiss, to turn down, to decline"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "若者",
+    "reading": "わかもの",
+    "english": "young man, young woman, young people, youth, youngsters"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "見かける",
+    "reading": "みかける",
+    "english": "to (happen to) see, to notice, to catch sight of"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "緊張する",
+    "reading": "きんちょう",
+    "english": "tension, mental strain, nervousness"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "勇気がいります",
+    "reading": "ゆうきがいります",
+    "english": "To have courage"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "声をかける",
+    "reading": "こえをかける",
+    "english": "to greet, to call out (to), to start talking (to)"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "感謝",
+    "reading": "かんしゃ",
+    "english": "thanks, gratitude"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "笑顔",
+    "reading": "えがお",
+    "english": "smiling face, smile"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "素直",
+    "reading": "すなお",
+    "english": "obedient, meek, docile, unaffected"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "座り",
+    "reading": "すわり",
+    "english": "sitting"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "ようとする",
+    "reading": "ようとする",
+    "english": "try to, be about to"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "もし",
+    "reading": "もし",
+    "english": "if, in case, supposing"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "〜ても",
+    "reading": "〜ても",
+    "english": "even if, even though"
+  },
+  {
+    "section": "Elderly Bus",
+    "japanese": "断われる",
+    "reading": "ことわる",
+    "english": "to refuse, to reject, to dismiss, to turn down, to decline"
   }
 ]
