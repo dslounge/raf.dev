@@ -2226,21 +2226,303 @@
     "english": "this is why, this means, it is the case that"
   },
   {
-    "section": "",
-    "japanese": "",
-    "reading": "-",
-    "english": "-"
+    "section": "JLPT N3 Grammar",
+    "japanese": "ということだ",
+    "reading": "I heard; It means that; It seems that",
+    "english": ""
   },
   {
-    "section": "",
-    "japanese": "",
-    "reading": "-",
-    "english": "-"
+    "section": "JLPT N3 Grammar",
+    "japanese": "と言うと（というと）",
+    "reading": "Speaking of; when you talk of; when you say..",
+    "english": ""
   },
   {
-    "section": "",
-    "japanese": "",
-    "reading": "-",
-    "english": "-"
+    "section": "JLPT N3 Grammar",
+    "japanese": "とすれば・としたら・とすると",
+    "reading": "in the case of..; assuming..",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "通り（とおり）",
+    "reading": "As described by (this), (B)",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "とたん",
+    "reading": "just as; in the act of; simultaneous action",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ついでに",
+    "reading": "Taking the opportunity while doing something; incidentally.",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "つまり",
+    "reading": "In other words; in summary; in short",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "つもりだった",
+    "reading": "Was planning to",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "はもちろん",
+    "reading": "not to mention; not only; but also",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "割に（わりに）",
+    "reading": "In comparison. (expresses an unexpected feeling)",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ばかり",
+    "reading": "only; nothing but",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ばかりだ",
+    "reading": "continue to",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ばかりか",
+    "reading": "not only [A], but also [B]",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ばかりに",
+    "reading": "simply because, on account of (=>negative result)",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "べきではない",
+    "reading": "should not do; must not do",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "べき・べきだ",
+    "reading": "should do; must do",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "だらけ",
+    "reading": "full of; covered with",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ふりをする",
+    "reading": "to pretend; to act as if",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "程（ほど）",
+    "reading": "degree; extent; bounds; upper limit",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "欲しい（ほしい）",
+    "reading": "Wanted; in need of; desired.",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "代わりに（かわりに）",
+    "reading": "Instead of; in exchange for; in return",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "きり",
+    "reading": "Only; just",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "っけ",
+    "reading": "~?; recalling information; asking for confirmation",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ことだ",
+    "reading": "should; should not",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ことか",
+    "reading": "emphasis; a lot",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ことになる",
+    "reading": "It has been decided that..; it turns out that..",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ことにする",
+    "reading": "to decide on",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ことはない",
+    "reading": "No need to [X]",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "くらい・ぐらい",
+    "reading": "approximately; about; around; to the extent",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "くせに",
+    "reading": "Although; despite; even though",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "まま",
+    "reading": "Current condition; state",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "もん",
+    "reading": "used when giving a reason.",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "ものだ",
+    "reading": "describe feeling; express memories; state fact",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "もらいたい",
+    "reading": "to express desire/want for something",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "なんか・なんて・など",
+    "reading": "Expresses an emphasis of an unexpected feeling or a negative feeling. Usually followed by more negative words.",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "なぜなら",
+    "reading": "because",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "んだって",
+    "reading": "I hear that (using quote)",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "にかわって",
+    "reading": "instead of; replacing; on behalf of",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "にとって",
+    "reading": "to; for; concerning;",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "おかげ",
+    "reading": "Expresses a good result for the speaker, usually also expressing thanks or gratitude.",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "っ放し（っぱなし）",
+    "reading": "Leaving something in an improper state; leaving something on; leaving something still in use;",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "最中に（さいちゅうに）",
+    "reading": "In the middle of, interrupting.",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "せい・せいで・せいか",
+    "reading": "Places blame to something/someone else.",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "しかない",
+    "reading": "Have no choice but to",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "その結果（そのけっか）",
+    "reading": "As a result of",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "その為（そのため）",
+    "reading": "hence; for that reason",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "たびに",
+    "reading": "Each time; every time; whenever (something happens).",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "てはじめて",
+    "reading": "not until; only after [x] did I",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "と言えば（といえば）",
+    "reading": "Speaking of",
+    "english": ""
+  },
+  {
+    "section": "JLPT N3 Grammar",
+    "japanese": "という",
+    "reading": "It is said; called thus",
+    "english": ""
   }
 ]
