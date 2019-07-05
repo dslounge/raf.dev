@@ -510,7 +510,7 @@
     "english": "promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "それなのに",
     "reading": "それなのに",
     "english": "and yet, despite this, but even so, but even then, however, nevertheless, for all that, notwithstanding that"
@@ -570,7 +570,7 @@
     "english": "diligent, serious, honest, sober, grave, earnest, steady"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "それに",
     "reading": "それに",
     "english": "besides, in addition, also, moreover"
@@ -624,7 +624,7 @@
     "english": "heat"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "そのうえ",
     "reading": "そのうえ",
     "english": "in addition, furthermore"
@@ -642,7 +642,7 @@
     "english": "to burst open, to split open, to pop"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "それから",
     "reading": "それから",
     "english": "and then, after that"
@@ -660,13 +660,13 @@
     "english": "(cow's) milk"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "それても",
-    "reading": "それる",
-    "english": "to turn away, to bear off, to veer away, to swerve from, to miss (e.g. a target)"
+    "reading": "それても",
+    "english": "or, (want the address. OR do you want the number?)"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "あるいは",
     "reading": "あるいは",
     "english": "or, possibly"
@@ -678,7 +678,7 @@
     "english": "Intercity bus"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "または",
     "reading": "または",
     "english": "or, otherwise"
@@ -786,13 +786,13 @@
     "english": "cleaner (usu. vacuum cleaner)"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "ことになる",
     "reading": "ことになる",
     "english": "it has been decided (so) that, it has been arranged (so) that"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "だって",
     "reading": "だって",
     "english": "after all, because"
@@ -864,7 +864,7 @@
     "english": "makeshift"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "そうもない",
     "reading": "そうもない",
     "english": "very unlikely to (verb)"
@@ -918,13 +918,13 @@
     "english": "action, activity"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "わけ",
     "reading": "わけ",
     "english": "conclusion from reasoning, judgement or calculation based on something read or heard, reason, cause, meaning, circumstances, situation"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "やっと",
     "reading": "やっと",
     "english": "at last, at length"
@@ -1009,12 +1009,6 @@
   },
   {
     "section": "",
-    "japanese": "叫ん",
-    "reading": "",
-    "english": "Shout Out Loud!"
-  },
-  {
-    "section": "",
     "japanese": "夢",
     "reading": "ゆめ",
     "english": "dream"
@@ -1056,7 +1050,7 @@
     "english": "season"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "そろそろ",
     "reading": "そろそろ",
     "english": "slowly, quietly, steadily, gradually, gingerly"
@@ -1086,7 +1080,7 @@
     "english": "influenza"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "など",
     "reading": "など",
     "english": "et cetera, etc., and the like, and so forth"
@@ -1188,7 +1182,7 @@
     "english": "to believe, to believe in, to place trust in, to confide in, to have faith in"
   },
   {
-    "section": "",
+    "section": "Grammar",
     "japanese": "なんて",
     "reading": "なんて",
     "english": "how ..!, what ..!"
@@ -1572,7 +1566,7 @@
     "english": "to raise, to lift, to boost, to enhance"
   },
   {
-    "section": "Japanese Economy",
+    "section": "Grammar",
     "japanese": "にとって",
     "reading": "にとって",
     "english": "to, for, concerning, as far as ... is concerned, regarding"
@@ -1584,13 +1578,13 @@
     "english": "not always, not necessarily, not all, not entirely"
   },
   {
-    "section": "Japanese Economy",
+    "section": "Grammar",
     "japanese": "において",
     "reading": "において",
     "english": "in, on, at (place), as for, regarding"
   },
   {
-    "section": "Japanese Economy",
+    "section": "Grammar",
     "japanese": "おかげで",
     "reading": "おかげで",
     "english": "thanks to ..., owing to ..., because of ..."
@@ -1602,7 +1596,7 @@
     "english": "national traits or character, nationality"
   },
   {
-    "section": "Japanese Economy",
+    "section": "Grammar",
     "japanese": "ようになる",
     "reading": "ようになる",
     "english": "to reach the point that, to come to be that, to turn into"
@@ -1734,7 +1728,7 @@
     "english": "space, interval"
   },
   {
-    "section": "Late on Sunday",
+    "section": "Grammar",
     "japanese": "なんと",
     "reading": "なんと",
     "english": "what, how, whatever"
@@ -1764,7 +1758,7 @@
     "english": "surplus, margin, leeway, room, space, time, allowance, flexibility, scope"
   },
   {
-    "section": "Late on Sunday",
+    "section": "Grammar",
     "japanese": "ように",
     "reading": "ように",
     "english": "in order to (e.g. meet goal), so that, take care (so as)"
@@ -2224,5 +2218,29 @@
     "japanese": "断われる",
     "reading": "ことわる",
     "english": "to refuse, to reject, to dismiss, to turn down, to decline"
+  },
+  {
+    "section": "Grammar",
+    "japanese": "というわけだ",
+    "reading": "というわけだ",
+    "english": "this is why, this means, it is the case that"
+  },
+  {
+    "section": "",
+    "japanese": "",
+    "reading": "-",
+    "english": "-"
+  },
+  {
+    "section": "",
+    "japanese": "",
+    "reading": "-",
+    "english": "-"
+  },
+  {
+    "section": "",
+    "japanese": "",
+    "reading": "-",
+    "english": "-"
   }
 ]
