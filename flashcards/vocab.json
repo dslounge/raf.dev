@@ -327,7 +327,7 @@
     "section": "",
     "japanese": "流行る",
     "reading": "はやる",
-    "english": "to be popular, to come into fashion"
+    "english": "to be popular, to come into https://www.csvjson.com/csv2json#fashion"
   },
   {
     "section": "",
@@ -2974,5 +2974,251 @@
     "japanese": "試す",
     "reading": "ためす",
     "english": "to attempt, to test, to try out"
+  },
+  {
+    "section": "Listening 3",
+    "japanese": "方法",
+    "reading": "ほうほう",
+    "english": "method, process, manner, way, means, technique"
+  },
+  {
+    "section": "Listening 3",
+    "japanese": "関係",
+    "reading": "かんけい",
+    "english": "relation, relationship, connection"
+  },
+  {
+    "section": "Listening 3",
+    "japanese": "矢印",
+    "reading": "やじるし",
+    "english": "arrow (symbol)"
+  },
+  {
+    "section": "Listening 3",
+    "japanese": "書類",
+    "reading": "しょるい",
+    "english": "document, official papers"
+  },
+  {
+    "section": "Listening 3",
+    "japanese": "用紙",
+    "reading": "ようし",
+    "english": "blank form"
+  },
+  {
+    "section": "JLPT N4 Grammar",
+    "japanese": "〜てもかまいませんか",
+    "reading": "is it ok to?",
+    "english": "座ってもかいまいませんか"
+  },
+  {
+    "section": "Listening 3",
+    "japanese": "おかげさまで",
+    "reading": "おかげさまで",
+    "english": "(I'm fine) thank you, thanks to you, fortunately, under the gods' shadow"
+  },
+  {
+    "section": "Listening 4",
+    "japanese": "おかけください",
+    "reading": "おかけください",
+    "english": "please sit down, please have a seat"
+  },
+  {
+    "section": "Listening 5",
+    "japanese": "将来",
+    "reading": "しょうらい",
+    "english": "future (usually near), prospects"
+  },
+  {
+    "section": "Listening 6",
+    "japanese": "状況",
+    "reading": "じょうきょう",
+    "english": "state of affairs (around you), situation, circumstances"
+  },
+  {
+    "section": "Listening 7",
+    "japanese": "食堂",
+    "reading": "しょくどう",
+    "english": "dining room, dining hall, cafeteria, messroom"
+  },
+  {
+    "section": "Listening 8",
+    "japanese": "商品",
+    "reading": "しょうひん",
+    "english": "commodity, article of commerce, goods, stock, merchandise"
+  },
+  {
+    "section": "Listening 9",
+    "japanese": "動かす",
+    "reading": "うごかす",
+    "english": "to move, to shift, to stir, to budge, to change position"
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜うちに。。。",
+    "reading": "do before the situation changes",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜間",
+    "reading": "do ... while ~",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜てからでないと",
+    "reading": "unless ~ happens, ... can't happen",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜ところです",
+    "reading": "moment right before",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜ところを。。",
+    "reading": "while it's happening",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜ところで",
+    "reading": "happened just after",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜とおり(だ/に）",
+    "reading": "do it in the same way as",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜たびに。。。",
+    "reading": "whenever ~ happens .. happens too",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜ついでに...",
+    "reading": "when doing ~ take the opportunity to do ..",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜くらいだ",
+    "reading": "to the extent that ~ happened (exaggeration)",
+    "english": "この店のパンは美味しい。毎日食べたいくらいだ"
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜くらい。。。はない",
+    "reading": "~ is the most .. of all",
+    "english": "りーさんぐらい動物好きな人はいない"
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜くらいなら。。。",
+    "reading": "if ~ is the case, then you are better off ..",
+    "english": "毎朝自分で弁当を作るくらいなら、コンビニ弁当でいい"
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜にがぎる",
+    "reading": "~ is the best (way)",
+    "english": "やっぱり映画は映画館でみるに限る"
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜に対して〜",
+    "reading": "unlike ~, it is ...",
+    "english": "大阪の大雨に対して、東京はいい天気だった"
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜反面 （はんめん）。。。",
+    "reading": "~, but on the other hand ...",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜一方で。。。",
+    "reading": "~, but at the same time, other other hand...",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜というより。。。",
+    "reading": "rather than ~, ...",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜代わりに。。",
+    "reading": "On the one hand ~, but at the same time..",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜ためだ",
+    "reading": "beacause of ~",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜によって。。",
+    "reading": "because of (by means of)~, ... resulted",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜せいで。。。",
+    "reading": "... (bad occurrence) was due to ~",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜のだから。。。",
+    "reading": "... naturally follows from ~",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜（の）なら。。。",
+    "reading": "in light of ..., then do ~",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜ては。。",
+    "reading": "assuming ~, then ... can unfortunately be expected",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜のでは。。。",
+    "reading": "assuming ~, then ... can unfortunately be expected",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜さえ〜ば。。。",
+    "reading": "If ~ happens, then ... is all that needs to be done",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "たとえ〜ても。。。",
+    "reading": "even if ~ happens, ... will be done regardless",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜ば。。。〜たら。。、〜なら。。",
+    "reading": "if ~ that happened, then ... (but that wasn't the case)",
+    "english": ""
   }
 ]
