@@ -2307,222 +2307,606 @@
     "section": "JLPT N3 Grammar",
     "japanese": "ばかりに",
     "reading": "simply because, on account of (=>negative result)",
-    "english": "お金がないばかりに、今度の旅行に行けなかった\nI wasn't able to go on this trip since I don't have any money."
+    "english": "お金がないばかりに、今度の旅行に行けなかった"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "べきではない",
     "reading": "should not do; must not do",
-    "english": ""
+    "english": "そんなことをすべきではない。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "べき・べきだ",
     "reading": "should do; must do",
-    "english": ""
+    "english": "約束は守るべきだ。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "だらけ",
     "reading": "full of; covered with",
-    "english": ""
+    "english": "汗(sweat)だらけの顔"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "ふりをする",
     "reading": "to pretend; to act as if",
-    "english": ""
+    "english": "聞こえないふりをした"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "程（ほど）",
-    "reading": "degree; extent; bounds; upper limit",
-    "english": ""
+    "reading": "degree; extent; upper limit; nothing like..",
+    "english": "今年ほど雨の降った年はなかった"
   },
   {
     "section": "JLPT N3 Grammar",
-    "japanese": "欲しい（ほしい）",
+    "japanese": "〜て　欲しい（ほしい）",
     "reading": "Wanted; in need of; desired.",
-    "english": ""
+    "english": "あのう、昨日のノートを見せて欲しいんですが"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "代わりに（かわりに）",
     "reading": "Instead of; in exchange for; in return",
-    "english": ""
+    "english": "今日は仕事へ車で行くの代わりに自転車で行った。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "きり",
     "reading": "Only; just",
-    "english": ""
+    "english": "二人っきりで話をしたいです。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "っけ",
     "reading": "~?; recalling information; asking for confirmation",
-    "english": ""
+    "english": "誰だっけ"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "ことだ",
-    "reading": "should; should not",
-    "english": ""
+    "reading": "you should; you should not",
+    "english": "無理をしないことだ"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "ことか",
     "reading": "emphasis; a lot",
-    "english": ""
+    "english": "何度注意したことか"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "ことになる",
     "reading": "It has been decided that..; it turns out that..",
-    "english": ""
+    "english": "大阪に転勤することになりました。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "ことにする",
     "reading": "to decide on",
-    "english": ""
+    "english": "これから毎日ランニングをすることにする"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "ことはない",
     "reading": "No need to [X]",
-    "english": ""
+    "english": "あなたがあやまることはないよ"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "くらい・ぐらい",
     "reading": "approximately; about; around; to the extent",
-    "english": ""
+    "english": "お客様はどのぐらいいますか？"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "くせに",
     "reading": "Although; despite; even though",
-    "english": ""
+    "english": "元気なくせに、病気のふりをしている。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "まま",
     "reading": "Current condition; state",
-    "english": ""
+    "english": "この野菜は、生のままで食べてもおいしいですよ"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "もん",
     "reading": "used when giving a reason.",
-    "english": ""
+    "english": "美味しくないんだもん"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "ものだ",
-    "reading": "describe feeling; express memories; state fact",
-    "english": ""
+    "reading": "describe feeling; express memories; state obvous fact",
+    "english": "子どものころはよく遊んだものだ"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "もらいたい",
-    "reading": "to express desire/want for something",
-    "english": ""
+    "reading": "Want to receive something",
+    "english": "先生に教えてもらいたいことがあります。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "なんか・なんて・など",
-    "reading": "Expresses an emphasis of an unexpected feeling or a negative feeling. Usually followed by more negative words.",
-    "english": ""
+    "reading": "unexpected feeling or a negative feeling. Usually followed by more negative words.",
+    "english": "なっとなんて嫌いだ"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "なぜなら",
     "reading": "because",
-    "english": ""
+    "english": "学校を変えた。なぜなら、サッカー部がなかったからだ。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "んだって",
-    "reading": "I hear that (using quote)",
-    "english": ""
+    "reading": "(casual) I hear that (using quote)",
+    "english": "知らないんだって。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "にかわって",
-    "reading": "instead of; replacing; on behalf of",
-    "english": ""
+    "reading": "instead of; replacing a person; on behalf of",
+    "english": "弟は、母にかわってご飯を作った。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "にとって",
     "reading": "to; for; concerning;",
-    "english": ""
+    "english": "家族は私にとって、一番大切な物です"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "おかげ",
-    "reading": "Expresses a good result for the speaker, usually also expressing thanks or gratitude.",
-    "english": ""
+    "reading": "thanks to; due to",
+    "english": "日本へ来たおかげで、日本語が上手になりました"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "っ放し（っぱなし）",
-    "reading": "Leaving something in an improper state; leaving something on; leaving something still in use;",
-    "english": ""
+    "reading": "Leaving something on or in use",
+    "english": "窓を開けっぱなしで出てきた (leave window open)"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "最中に（さいちゅうに）",
     "reading": "In the middle of, interrupting.",
-    "english": ""
+    "english": "窓を開けっぱなしで出てきた"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "せい・せいで・せいか",
     "reading": "Places blame to something/someone else.",
-    "english": ""
+    "english": "事故のせいで、約束の時間に遅れてしまった"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "しかない",
-    "reading": "Have no choice but to",
-    "english": ""
+    "reading": "There's no option but to...",
+    "english": "卒業できなかったから、バイトをするしかない"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "その結果（そのけっか）",
     "reading": "As a result of",
-    "english": ""
+    "english": "ほとんど勉強をしなかった。その結果、試験に落ちてしまった。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "その為（そのため）",
-    "reading": "hence; for that reason",
-    "english": ""
+    "reading": "for the purpose of...",
+    "english": "来年留学するつもりだ。その為に、バイトしてお金をためている。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "たびに",
-    "reading": "Each time; every time; whenever (something happens).",
-    "english": ""
+    "reading": "Every time X happens",
+    "english": "買い物のたびに、袋をたくさんもらう。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "てはじめて",
     "reading": "not until; only after [x] did I",
-    "english": ""
+    "english": "日本語を勉強してはじめて、勉強の楽しさが分かった。"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "と言えば（といえば）",
     "reading": "Speaking of",
-    "english": ""
+    "english": "日本の夏と言えば、とても暑いです！"
   },
   {
     "section": "JLPT N3 Grammar",
     "japanese": "という",
-    "reading": "It is said; called thus",
-    "english": ""
+    "reading": "It is said that",
+    "english": "今年の冬は記録的な暖冬だという"
+  },
+  {
+    "section": "Listening",
+    "japanese": "原稿",
+    "reading": "げんこう",
+    "english": "manuscript, copy, draft, notes, contribution"
+  },
+  {
+    "section": "Listening",
+    "japanese": "まとめ",
+    "reading": "まとめ",
+    "english": "settlement, conclusion, summary"
+  },
+  {
+    "section": "Listening",
+    "japanese": "完成",
+    "reading": "かんせい",
+    "english": "complete, completion"
+  },
+  {
+    "section": "Listening",
+    "japanese": "預かる",
+    "reading": "あずかる",
+    "english": "to look after, to take care of, to keep, to hold on to, to keep in custody"
+  },
+  {
+    "section": "Listening",
+    "japanese": "問題用紙",
+    "reading": "もんだいようし",
+    "english": "question sheet, question paper"
+  },
+  {
+    "section": "Listening",
+    "japanese": "何も",
+    "reading": "なにも",
+    "english": "nothing (with neg. verbs), not any"
+  },
+  {
+    "section": "Listening",
+    "japanese": "印刷",
+    "reading": "いんさつ",
+    "english": "printing"
+  },
+  {
+    "section": "Listening",
+    "japanese": "全体として",
+    "reading": "ぜんたいとして",
+    "english": "overall"
+  },
+  {
+    "section": "JLPT N4 Grammar",
+    "japanese": "がり",
+    "reading": "describe a personality, tendancy, or sensitivity towards somethin",
+    "english": "寒がり\ntend to be cold"
+  },
+  {
+    "section": "JLPT N4 Grammar",
+    "japanese": "がる",
+    "reading": "someone is appearing to be a certain way.",
+    "english": "彼は犬を怖がる\nAppaear to be afraid of dogs"
+  },
+  {
+    "section": "JLPT N4 Grammar",
+    "japanese": "はずがない",
+    "reading": "strongly emphasize that something cannot be or is impossible.",
+    "english": "そんな大きな量を全部食べられるはずがない。"
+  },
+  {
+    "section": "JLPT N4 Grammar",
+    "japanese": "必要がある",
+    "reading": "need to; it is necessary to",
+    "english": "私はもっと勉強する必要がある"
+  },
+  {
+    "section": "JLPT N4 Grammar",
+    "japanese": "させられる",
+    "reading": "to be made to do something",
+    "english": "仕事を辞めさせられた"
+  },
+  {
+    "section": "JLPT N4 Grammar",
+    "japanese": "させる",
+    "reading": "to make/let somebody do something",
+    "english": "食べさせてください"
+  },
+  {
+    "section": "JLPT N4 Grammar",
+    "japanese": "たがる",
+    "reading": "want to do~ (third person)",
+    "english": "友達が留学したがる"
+  },
+  {
+    "section": "JLPT N4 Grammar",
+    "japanese": "とみえて",
+    "reading": "it seems that",
+    "english": "山田さんは忙しいとみえて、このごろ電話もしてこない。"
+  },
+  {
+    "section": "JLPT N4 Grammar",
+    "japanese": "このごろ",
+    "reading": "このごろ",
+    "english": "these days, nowadays, now, at present, recently, lately"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "だから",
+    "reading": "so, therefore",
+    "english": "show cause or reason"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それで",
+    "reading": "and, thereupon, because of that",
+    "english": "show cause or reason"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "そのため",
+    "reading": "hence, for that reason",
+    "english": "show cause or reason"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "したがって",
+    "reading": "therefore, consequently, accordingly",
+    "english": "show cause or reason"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "なぜなら",
+    "reading": "because, the reason is, if you want to know why",
+    "english": "show cause or reason"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "だって",
+    "reading": "after all, because",
+    "english": "show cause or reason"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "というのは",
+    "reading": "because; that is to say​",
+    "english": "show cause or reason"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それから",
+    "reading": "and then, after that",
+    "english": "show cause or reason"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "すると",
+    "reading": "thereupon, hereupon",
+    "english": "show cause or reason"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "そこで",
+    "reading": "so, accordingly, now, then, thereupon, therefore",
+    "english": "show cause or reason"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それに",
+    "reading": "besides, in addition, also, moreover",
+    "english": "show something added"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "そのうえ",
+    "reading": "in addition, furthermore",
+    "english": "show something added"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それから",
+    "reading": "and then, after that",
+    "english": "show something added"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "あと",
+    "reading": "also; in addition",
+    "english": "show something added"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "ところが",
+    "reading": "even so, however, still, whereupon, even though, nevertheless, on the contrary, as a matter of fact, despite",
+    "english": "show something unexpected"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "では・じゃ",
+    "reading": "then, well, so, well then",
+    "english": "show time or condition"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それでは",
+    "reading": "in that situation; in which case​",
+    "english": "show time or condition"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それじゃ",
+    "reading": "in that situation; in which case",
+    "english": "show time or condition"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それなら",
+    "reading": "If that's the case ..., If so ..., That being the case ...",
+    "english": "show time or condition"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それでも",
+    "reading": "but (still), and yet, nevertheless, even so, notwithstanding",
+    "english": "show time or condition"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それで",
+    "reading": "and, thereupon, because of that",
+    "english": "continue a story"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "で",
+    "reading": "and then; so​",
+    "english": "continue a story"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "しかし",
+    "reading": "however, but",
+    "english": "illustrate a paradox"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "けれども",
+    "reading": "but, however, although",
+    "english": "illustrate a paradox"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "だけど",
+    "reading": "however",
+    "english": "illustrate a paradox"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "だが",
+    "reading": "but, however, (and) yet, nevertheless, still, for all that",
+    "english": "illustrate a paradox"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "でも",
+    "reading": "but, however, though, nevertheless, still, yet, even so, also, as well",
+    "english": "illustrate a paradox"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それなのに",
+    "reading": "and yet, despite this, but even so, but even then, however, nevertheless, for all that, notwithstanding that",
+    "english": "illustrate a paradox"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それでも",
+    "reading": "but (still), and yet, nevertheless, even so, notwithstanding",
+    "english": "illustrate a paradox"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "ただし",
+    "reading": "but, however, provided that",
+    "english": "add an explanation"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "もっとも",
+    "reading": "most, extremely",
+    "english": "add an explanation"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "なお",
+    "reading": "furthermore, still, yet, more, still more, in addition, greater, further",
+    "english": "add an explanation"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "ただ",
+    "reading": "but; however; nevertheless​",
+    "english": "add an explanation"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "ところで",
+    "reading": "by the way, incidentally",
+    "english": "changing a topic"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "さて",
+    "reading": "well, now, then",
+    "english": "changing a topic"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "そういえば",
+    "reading": "which reminds me ..., come to think of it ..., now that you mention it ..., on that subject ..., so, if you say ...",
+    "english": "changing a topic"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それとも",
+    "reading": "or, or else",
+    "english": "used when choosing"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "あるいは",
+    "reading": "or, possibly",
+    "english": "used when choosing"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "または",
+    "reading": "or, otherwise",
+    "english": "used when choosing"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "そして",
+    "reading": "and, and then, thus, and now, and finally",
+    "english": "add to a list"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "それに",
+    "reading": "besides, in addition, also, moreover",
+    "english": "add to a list"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "また",
+    "reading": "again, and, also, still (doing something)",
+    "english": "add to a list"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "ただ",
+    "reading": "ordinary, common, usual",
+    "english": "something opposite to prev sentence"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "すると",
+    "reading": "thereupon, hereupon",
+    "english": "action continuing after another action. Often the result cannot be controlled by the speaker's will."
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "そこで",
+    "reading": "so, accordingly, now, then, thereupon, therefore",
+    "english": "something which a person does by will comes after, in regard to a situation. Often verb past form comes afterwards"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "ただし",
+    "reading": "but; however; provided that​",
+    "english": "add exception or a limit"
+  },
+  {
+    "section": "Conjunctions",
+    "japanese": "もっとも",
+    "reading": "but then; although; though​",
+    "english": "negate part of the content of the previous sentence"
   }
 ]
