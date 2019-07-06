@@ -327,7 +327,7 @@
     "section": "",
     "japanese": "流行る",
     "reading": "はやる",
-    "english": "to be popular, to come into https://www.csvjson.com/csv2json#fashion"
+    "english": "to be popular, to come into fashion"
   },
   {
     "section": "",
@@ -3170,7 +3170,7 @@
   {
     "section": "Grammar Book",
     "japanese": "〜によって。。",
-    "reading": "because of (by means of)~, ... resulted",
+    "reading": "1) depending on ~ 2) because of ~ 3) by means of ~ 4) was done by ~, ... resulted",
     "english": ""
   },
   {
@@ -3219,6 +3219,84 @@
     "section": "Grammar Book",
     "japanese": "〜ば。。。〜たら。。、〜なら。。",
     "reading": "if ~ that happened, then ... (but that wasn't the case)",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜として。。。",
+    "reading": "from the viewpoint of ~",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜にとって",
+    "reading": "as far as ~ is concerned",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜わけがない",
+    "reading": "definitely does not ~",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜わけではない...",
+    "reading": "it's not ~ but rather ...",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "わけ",
+    "reading": "conclusion from reasoning, judgement or calculation based on something read or heard",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜とか",
+    "reading": "I heard that",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "~ということだ",
+    "reading": "it's said that",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "~とは限（かぎ）らない",
+    "reading": "it's not always true that ~",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜てもらいたい",
+    "reading": "won't you do ~ for me?",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜ていただきたい",
+    "reading": "won't you do ~ for me?",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "~こと。",
+    "reading": "ending a phrase in koto means don't do this",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜べきだ",
+    "reading": "it's better to ~",
+    "english": ""
+  },
+  {
+    "section": "Grammar Book",
+    "japanese": "〜ようにする",
+    "reading": "take care to ~",
     "english": ""
   }
 ]
