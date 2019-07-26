@@ -9,28 +9,15 @@ import React from "react";
 import PropTypes from "prop-types";
 import SEO from "./seo";
 
-const styles = {
-  body: {
-    fontFamily: "Helvetica, sans-serif",
-    margin: `0 auto`,
-    maxWidth: 960,
-    padding: `0px 1.0875rem 1.45rem`,
-    paddingTop: 0,
-  },
-  footer: {
-    textAlign: "center",
-  },
-};
-
 const Layout = ({ children, title }) => {
   return (
     <>
-      <div style={styles.body}>
+      <div className="mainColumn">
         <main>
           <SEO title={title} />
           {children}
         </main>
-        <footer style={styles.footer}>
+        <footer className="footer">
           {"©  "}
           {new Date().getFullYear()}
         </footer>
