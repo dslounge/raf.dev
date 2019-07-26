@@ -5,6 +5,7 @@ import { SocialButton } from "../components/social-button";
 import Layout from "../components/layout";
 import { spacing, colors } from "../design";
 import rafProfile from "../images/raf-profile.png";
+import { Bio } from "../components/bio";
 
 // <Link to="/page-2/">Go to page 2</Link>
 
@@ -62,6 +63,10 @@ const styles = {
     height: 350,
     width: 600,
   },
+  p: {
+    lineHeight: "150%",
+    color: colors.black,
+  },
 };
 
 // TODO: make bio collapsible
@@ -106,22 +111,7 @@ const IndexPage = () => (
         url="https://linkedin.com/in/groundcontrol"
       />
     </div>
-    <p>
-      I'm a software development consultant with 15 years of startup experience.
-      I've led development teams building highly engaging consumer products,
-      ranging from web apps, iOS and Android apps, corporate classrooms and
-      large public screens in Times Square.
-    </p>
-    <p>
-      I now help new companies be successful by improving engineering quality,
-      focusing product goals, establishing an organizational rhythm, and helping
-      founders foster a happy, productive culture.
-    </p>
-    <p>
-      I grew up in Miami and graduated from MIT with a degree in Computer
-      Science. In my spare time I study to increase my Japanese fluency, works
-      on his personal apps, and I love to travel.
-    </p>
+    <Bio />
   </Layout>
 );
 

@@ -32,7 +32,7 @@ export const SocialButton = props => {
 };
 
 SocialButton.propTypes = {
-  icon: PropTypes.object.isRequired, // eslint-disable-line
+  icon: PropTypes.oneOfType([PropTypes.string, PropTypes.array]).isRequired, // eslint-disable-line
   title: PropTypes.string.isRequired,
   url: PropTypes.string.isRequired,
 };
