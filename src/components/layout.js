@@ -5,9 +5,9 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import React from "react"
-import PropTypes from "prop-types"
-import SEO from "./seo"
+import React from "react";
+import PropTypes from "prop-types";
+import SEO from "./seo";
 
 const styles = {
   body: {
@@ -16,9 +16,11 @@ const styles = {
     maxWidth: 960,
     padding: `0px 1.0875rem 1.45rem`,
     paddingTop: 0,
-    backgroundColor: "red",
   },
-}
+  footer: {
+    textAlign: "center",
+  },
+};
 
 const Layout = ({ children, title }) => {
   return (
@@ -28,18 +30,18 @@ const Layout = ({ children, title }) => {
           <SEO title={title} />
           {children}
         </main>
-        <footer>
-          {"©"}
+        <footer style={styles.footer}>
+          {"©  "}
           {new Date().getFullYear()}
         </footer>
       </div>
     </>
-  )
-}
+  );
+};
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
   title: PropTypes.string.isRequired,
-}
+};
 
-export default Layout
+export default Layout;
