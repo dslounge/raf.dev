@@ -32,8 +32,8 @@ export const Bio = () => {
       </p>
       <p>
         I grew up in Miami and graduated from MIT with a degree in Computer
-        Science. In my spare time I study to increase my Japanese fluency, works
-        on his personal apps, and I love to travel.
+        Science. In my spare time I study to increase my Japanese fluency, I
+        hack on on my personal apps, and I love to travel.
       </p>
       {false && (
         <div
