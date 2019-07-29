@@ -8,15 +8,16 @@ export const Bio = () => {
 
   return (
     <div
-      style={{
-        margin: "auto",
-        width: "80%",
-        position: "relative",
-        // overflow: "hidden",
-        maxHeight: open ? 1000 : closedHeight,
-        paddingBottom: open ? openBottomHeight : "auto",
-        transition: "max-height 1s",
-      }}
+      className="bio"
+      // style={{
+      // margin: "auto",
+      // width: "80%",
+      // position: "relative",
+      // // overflow: "hidden",
+      // maxHeight: open ? 1000 : closedHeight,
+      // paddingBottom: open ? openBottomHeight : "auto",
+      // transition: "max-height 1s",
+      // }}
     >
       <h2>About Me</h2>
       <p>

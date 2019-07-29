@@ -1,3 +1,4 @@
+$spacing_micro: 3px;
 $spacing_tiny: 6px;
 $spacing_small: 12px;
 $spacing_base: 24px;
@@ -18,8 +19,8 @@ h2 {
   margin-bottom: $spacing_small;
   background-color: $bw0;
   font-size: 25px;
+  line-height: 150%;
   color: $bw5;
-  padding: $spacing_tiny;
   padding-left: $spacing_small;
   padding-right: $spacing_huge;
   border-radius: 10px;
@@ -34,7 +35,6 @@ h2 {
   margin: 0 auto;
   margin-top: $spacing_base;
   max-width: 960px;
-  padding: 0px 1.0875rem 1.45rem;
   padding-top: 0;
 }
 
@@ -70,9 +70,8 @@ h2 {
   display: inline-block;
   background-color: $bw0;
   font-size: 50px;
-  line-height: 50px;
+  line-height: 150%;
   color: $bw5;
-  padding: $spacing_tiny;
   border-radius: 10px;
   font-style: italic;
   transform: rotate(-9deg);
@@ -80,13 +79,18 @@ h2 {
   padding-right: 20px;
 }
 
+.labelContainer {
+  transform: translate(40px, -210px);
+  position: relative;
+  z-index: 1;
+}
+
 .rafTitle {
   display: inline-block;
   background-color: $bw3;
   font-size: 30px;
-  line-height: 25px;
+  line-height: 150%;
   color: $bw5;
-  padding: $spacing_tiny;
   border-radius: 10px;
   transform: rotate(-5deg);
   margin-top: 10px;
@@ -106,7 +110,70 @@ h2 {
   width: 600px;
 }
 
+.bio {
+  margin: auto;
+  width: 80%;
+  position: relative;
+  transition: max-height 1s;
+}
+
 .footer {
   margin: $spacing_base;
   text-align: center;
+}
+
+@media only screen and (max-width: 480px) {
+  .mainColumn {
+    padding: 0 $spacing_base;
+  }
+  .headerInner {
+    position: relative;
+    height: 250px;
+    width: auto;
+  }
+  .profileImage {
+    width: 150px;
+  }
+
+  .labelContainer {
+    transform: translate(40px, -150px);
+    position: relative;
+    z-index: 1;
+  }
+
+  .name {
+    font-size: 25px;
+    padding-left: 110px;
+    padding-right: 10px;
+  }
+  .rafTitle {
+    margin-top: 5px;
+    font-size: 18px;
+    padding-left: 110px;
+    padding-right: 10px;
+  }
+
+  .bio {
+    width: auto;
+  }
+
+  h2 {
+    font-size: 18px;
+    transform: rotate(-5deg) translate(-10px);
+    padding-right: $spacing_large;
+    margin-bottom: 0;
+  }
+
+  .row {
+    margin-bottom: $spacing_base;
+  }
+
+  .socialButton {
+    padding: $spacing_tiny;
+    margin: $spacing_tiny;
+    font-size: 14px;
+    .icon {
+      margin-right: $spacing_tiny;
+    }
+  }
 }

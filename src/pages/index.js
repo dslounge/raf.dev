@@ -10,13 +10,7 @@ const IndexPage = () => (
     <div className="header">
       <div className="headerInner">
         <img className="profileImage" src={rafProfile} alt="raf profile" />
-        <div
-          style={{
-            transform: "translate(40px, -210px)",
-            position: "relative",
-            zIndex: 1,
-          }}
-        >
+        <div className="labelContainer">
           <div className="name">Rafael Mendiola</div>
           <br />
           <div className="rafTitle">Software Developer</div>
