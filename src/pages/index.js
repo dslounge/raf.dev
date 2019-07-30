@@ -49,12 +49,12 @@ const IndexPage = () => (
           url="https://medium.com/@GroundControl/how-to-build-your-react-native-team-d8bc4be6014a"
         />
         <WritingLink
-          title="Failure, Depression and Resilience"
-          url="https://medium.com/@GroundControl/failure-depression-and-resilience-3cfa67db4290"
-        />
-        <WritingLink
           title="Animating Gradients in React Native"
           url="https://medium.com/@GroundControl/animating-gradients-in-react-native-8853dbd97d02"
+        />
+        <WritingLink
+          title="Failure, Depression and Resilience"
+          url="https://medium.com/@GroundControl/failure-depression-and-resilience-3cfa67db4290"
         />
       </div>
     </div>
