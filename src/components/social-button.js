@@ -10,7 +10,12 @@ library.add(fab, faEnvelope);
 export const SocialButton = props => {
   const { icon, title, url } = props;
   return (
-    <a className="socialButton" href={url} target="_blank" rel="noopener">
+    <a
+      className="socialButton"
+      href={url}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
       <FontAwesomeIcon className="icon" icon={icon} />
       {title}
     </a>

@@ -110,11 +110,18 @@ h2 {
   width: 600px;
 }
 
-.bio {
+.content {
   margin: auto;
   width: 80%;
+}
+
+.bio {
   position: relative;
   transition: max-height 1s;
+}
+
+.writingLink {
+  margin: $spacing_base;
 }
 
 .footer {
@@ -153,7 +160,7 @@ h2 {
     padding-right: 10px;
   }
 
-  .bio {
+  .content {
     width: auto;
   }
 
