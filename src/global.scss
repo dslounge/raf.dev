@@ -118,6 +118,7 @@ h2 {
 .bio {
   position: relative;
   transition: max-height 1s;
+  margin-bottom: 40px;
 }
 
 .writingLink {
@@ -126,6 +127,8 @@ h2 {
 
 .projects {
   transform: rotate(-9deg) translate(10px);
+
+  margin-bottom: 40px;
 }
 
 .footer {

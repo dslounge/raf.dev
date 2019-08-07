@@ -6,6 +6,7 @@ import rafProfile from "../images/raf-profile.png";
 import { Bio } from "../components/bio";
 import { WritingLink } from "../components/writing-link";
 import benkyouImg from "../images/benkyou-project.png";
+import benkyouVideo from "../video/benkyou-demo.mp4";
 import "../global.scss";
 
 const IndexPage = () => (
@@ -49,11 +50,10 @@ const IndexPage = () => (
         <div className="projects">
           <Project
             image={benkyouImg}
+            video={benkyouVideo}
             title="Benkyou"
             url="http://benkyou.cards"
           />
-          <Project />
-          <Project />
         </div>
       </div>
       <div className="blogposts">
