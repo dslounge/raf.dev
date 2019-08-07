@@ -124,6 +124,10 @@ h2 {
   margin: $spacing_base;
 }
 
+.projects {
+  transform: rotate(-9deg) translate(10px);
+}
+
 .footer {
   margin: $spacing_base;
   text-align: center;

@@ -1,9 +1,11 @@
 import React from "react";
 import { SocialButton } from "../components/social-button";
+import { Project } from "../components/Project";
 import Layout from "../components/layout";
 import rafProfile from "../images/raf-profile.png";
 import { Bio } from "../components/bio";
 import { WritingLink } from "../components/writing-link";
+import benkyouImg from "../images/benkyou-project.png";
 import "../global.scss";
 
 const IndexPage = () => (
@@ -42,6 +44,18 @@ const IndexPage = () => (
     </div>
     <div className="content">
       <Bio />
+      <div>
+        <h2>Projects</h2>
+        <div className="projects">
+          <Project
+            image={benkyouImg}
+            title="Benkyou"
+            url="http://benkyou.cards"
+          />
+          <Project />
+          <Project />
+        </div>
+      </div>
       <div className="blogposts">
         <h2>Writing</h2>
         <WritingLink
