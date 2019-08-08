@@ -1,11 +1,9 @@
-.grow {
-  transition: all 0.2s ease-in-out;
-}
-.grow:hover {
+.project:hover {
   transform: scale(1.2);
 }
 
 .project {
+  transition: all 0.2s ease-in-out;
   position: relative;
   display: inline-block;
   overflow: hidden;

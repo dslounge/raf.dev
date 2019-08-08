@@ -22,7 +22,7 @@ export const Project = props => {
         setShowVideo(false);
       }}
     >
-      <div className="project grow">
+      <div className="project">
         <img src={image} alt="project preview" />
         <video
           ref={videoRef}
