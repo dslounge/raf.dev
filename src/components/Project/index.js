@@ -41,6 +41,7 @@ export const Project = props => {
           <header>{title}</header>
           <p>{description}</p>
         </div>
+        {soon && <div className="soon">write-up soon</div>}
       </div>
     </a>
   );

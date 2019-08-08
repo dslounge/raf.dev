@@ -113,8 +113,12 @@ h2 {
 }
 
 .projects {
-  transform: rotate(-9deg) translate(10px, -10px);
+  transform: rotate(-7deg) translate(10px, -10px);
   margin-bottom: 60px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .footer {

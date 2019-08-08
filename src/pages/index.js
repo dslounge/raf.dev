@@ -49,7 +49,7 @@ const IndexPage = () => (
     <div className="content">
       <Bio />
       <div>
-        <h2>Projects</h2>
+        <h2>My Projects</h2>
         <div className="projects">
           <Project
             image={benkyouImg}
