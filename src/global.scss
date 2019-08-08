@@ -1,13 +1,4 @@
-$spacing_micro: 3px;
-$spacing_tiny: 6px;
-$spacing_small: 12px;
-$spacing_base: 24px;
-$spacing_large: 48px;
-$spacing_huge: 96px;
-
-$bw0: #353535;
-$bw3: #999999;
-$bw5: #ffffff;
+@import "variables.scss";
 
 p {
   line-height: 175%;
@@ -26,7 +17,7 @@ h2 {
   border-radius: 10px;
   font-style: italic;
   font-weight: 100;
-  transform: rotate(-9deg) translate(-40px);
+  transform: rotate(-6deg) translate(-40px);
 }
 
 .mainColumn {
@@ -119,10 +110,6 @@ h2 {
   position: relative;
   transition: max-height 1s;
   margin-bottom: 40px;
-}
-
-.writingLink {
-  margin: $spacing_base;
 }
 
 .projects {

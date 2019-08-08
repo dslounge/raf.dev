@@ -4,7 +4,7 @@ import { Project } from "../components/Project";
 import Layout from "../components/layout";
 import rafProfile from "../images/raf-profile.png";
 import { Bio } from "../components/bio";
-import { WritingLink } from "../components/writing-link";
+import { WritingLink } from "../components/WritingLink";
 import benkyouImg from "../images/benkyou-project.png";
 import benkyouVideo from "../video/benkyou-demo.mp4";
 import "../global.scss";
@@ -61,14 +61,17 @@ const IndexPage = () => (
         <WritingLink
           title="How to Build your React Native Team"
           url="https://medium.com/@GroundControl/how-to-build-your-react-native-team-d8bc4be6014a"
+          description="You decided to go with React Native. Now what?"
         />
         <WritingLink
           title="Animating Gradients in React Native"
           url="https://medium.com/@GroundControl/animating-gradients-in-react-native-8853dbd97d02"
+          description="Animating gradients in React Native isn’t straight forward, but this tutorial will show you how to get it done."
         />
         <WritingLink
           title="Failure, Depression and Resilience"
           url="https://medium.com/@GroundControl/failure-depression-and-resilience-3cfa67db4290"
+          description="2018 wasn't a great year for me. I want to share what life has taught me about failure, depression and resilience."
         />
       </div>
     </div>
