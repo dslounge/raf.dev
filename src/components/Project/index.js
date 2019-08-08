@@ -5,7 +5,7 @@ import "./style.scss";
 
 export const Project = props => {
   const [showVideo, setShowVideo] = useState(false);
-  const { image, video, title, url } = props;
+  const { image, video, description, title, url, soon } = props;
   const videoStyle = showVideo ? "videoShow" : "videoHide";
 
   const videoRef = useRef();
@@ -14,32 +14,49 @@ export const Project = props => {
     <a
       href={url}
       onMouseEnter={() => {
-        videoRef.current.play();
+        if (videoRef.current) {
+          videoRef.current.play();
+        }
         setShowVideo(true);
       }}
       onMouseLeave={() => {
-        videoRef.current.pause();
+        if (videoRef.current) {
+          videoRef.current.pause();
+        }
         setShowVideo(false);
       }}
     >
       <div className="project">
         <img src={image} alt="project preview" />
-        <video
-          ref={videoRef}
-          className={videoStyle}
-          src={video}
-          type="video/mp4"
-          loop
-        />
-        <p>{title}</p>
+        {video && (
+          <video
+            ref={videoRef}
+            className={videoStyle}
+            src={video}
+            type="video/mp4"
+            loop
+          />
+        )}
+        <div className="caption">
+          <header>{title}</header>
+          <p>{description}</p>
+        </div>
       </div>
     </a>
   );
 };
 
 Project.propTypes = {
-  image: PropTypes.string.isRequired, // eslint-disable-line
-  video: PropTypes.string.isRequired, // eslint-disable-line
+  image: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
-  url: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
+  video: PropTypes.string,
+  url: PropTypes.string,
+  soon: PropTypes.bool,
+};
+
+Project.defaultProps = {
+  video: null,
+  url: null,
+  soon: false,
 };

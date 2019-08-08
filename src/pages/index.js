@@ -6,6 +6,9 @@ import rafProfile from "../images/raf-profile.png";
 import { Bio } from "../components/bio";
 import { WritingLink } from "../components/WritingLink";
 import benkyouImg from "../images/benkyou-project.png";
+import gesocialImg from "../images/geosocial-project.png";
+import ryoteiImg from "../images/ryotei-project.png";
+import kaocardsImg from "../images/kaocards-project.png";
 import benkyouVideo from "../video/benkyou-demo.mp4";
 import "../global.scss";
 
@@ -52,7 +55,27 @@ const IndexPage = () => (
             image={benkyouImg}
             video={benkyouVideo}
             title="Benkyou"
+            description="Japanese swipe flashcards"
             url="http://benkyou.cards"
+          />
+          <Project
+            image={ryoteiImg}
+            title="Ryotei"
+            description="My personal travel itinerary app"
+            soon
+          />
+          <Project
+            image={kaocardsImg}
+            title="KaoCards"
+            description="Flashcards for faces and names"
+            soon
+          />
+
+          <Project
+            image={gesocialImg}
+            title="geosocial.io"
+            description="startup: be notified of what's happening nearby"
+            soon
           />
         </div>
       </div>
