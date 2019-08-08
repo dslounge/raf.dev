@@ -1,3 +1,10 @@
+.grow {
+  transition: all 0.2s ease-in-out;
+}
+.grow:hover {
+  transform: scale(1.2);
+}
+
 .project {
   position: relative;
   display: inline-block;
@@ -7,6 +14,8 @@
   height: 322px;
   background-color: gray;
   border-radius: 10px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3),
+    0 4px 6px -2px rgba(0, 0, 0, 0.3);
 
   img {
     position: absolute;
