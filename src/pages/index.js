@@ -10,6 +10,7 @@ import gesocialImg from "../images/geosocial-project.png";
 import ryoteiImg from "../images/ryotei-project.png";
 import kaocardsImg from "../images/kaocards-project.png";
 import benkyouVideo from "../video/benkyou-demo.mp4";
+import ryoteiVideo from "../video/ryotei-demo.mp4";
 import "../global.scss";
 
 const IndexPage = () => (
@@ -60,6 +61,7 @@ const IndexPage = () => (
           />
           <Project
             image={ryoteiImg}
+            video={ryoteiVideo}
             title="Ryotei"
             description="My personal travel itinerary app"
             soon

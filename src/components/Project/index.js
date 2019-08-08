@@ -35,6 +35,7 @@ export const Project = props => {
             src={video}
             type="video/mp4"
             loop
+            muted
           />
         )}
         <div className="caption">
