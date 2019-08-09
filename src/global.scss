@@ -1,5 +1,11 @@
 @import "variables.scss";
 
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
 p {
   line-height: 175%;
   font-weight: 300;
@@ -24,10 +30,14 @@ h2 {
 .mainColumn {
   color: $bw0;
   font-family: helvetica, sans-serif;
-  margin: 0 auto;
   margin-top: $spacing_base;
-  max-width: 960px;
   padding-top: 0;
+}
+
+.contentBlock {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 30px 60px;
 }
 
 .row {
@@ -37,10 +47,12 @@ h2 {
 }
 
 .grayRow {
-  background-color: #eeeeee;
+  // background-color: #f9fafe;
+  background-color: #cccfd7;
   clip-path: polygon(0 2%, 100% 0%, 100% 93%, 0% 100%);
-  padding-top: 10px;
+  padding-top: 30px;
   padding-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .socialButton {
@@ -109,11 +121,6 @@ h2 {
   width: 600px;
 }
 
-.content {
-  margin: auto;
-  width: 80%;
-}
-
 .bio {
   position: relative;
   transition: max-height 1s;
@@ -122,11 +129,13 @@ h2 {
 
 .projects {
   transform: rotate(-7deg) translate(10px, -10px);
-  margin-bottom: 60px;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  margin: auto;
+  max-width: 800px;
+  margin-bottom: 30px;
 }
 
 .footer {
@@ -136,8 +145,13 @@ h2 {
 
 @media only screen and (max-width: $mobile_boundary) {
   .mainColumn {
-    padding: 0 $spacing_base;
+    padding: 0;
   }
+
+  .contentBlock {
+    padding: 0 $spacing_small;
+  }
+
   .headerInner {
     position: relative;
     height: 250px;

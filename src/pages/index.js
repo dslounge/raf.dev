@@ -47,11 +47,13 @@ const IndexPage = () => (
         url="https://linkedin.com/in/rafmendiola"
       />
     </div>
-    <div className="content">
+    <div>
       <div className="grayRow">
-        <Bio />
+        <div className="contentBlock">
+          <Bio />
+        </div>
       </div>
-      <div>
+      <div className="contentBlock">
         <h2>My Projects</h2>
         <div className="projects">
           <Project
@@ -84,7 +86,7 @@ const IndexPage = () => (
         </div>
       </div>
       <div className="grayRow">
-        <div className="blogposts">
+        <div className="blogposts contentBlock">
           <h2>Writing</h2>
           <WritingLink
             title="How to Build your React Native Team"
