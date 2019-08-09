@@ -126,7 +126,7 @@ h2 {
   text-align: center;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: $mobile_boundary) {
   .mainColumn {
     padding: 0 $spacing_base;
   }
@@ -146,13 +146,13 @@ h2 {
   }
 
   .name {
-    font-size: 25px;
+    font-size: 22px;
     padding-left: 110px;
     padding-right: 10px;
   }
   .rafTitle {
     margin-top: 5px;
-    font-size: 18px;
+    font-size: 16px;
     padding-left: 110px;
     padding-right: 10px;
   }
@@ -179,5 +179,12 @@ h2 {
     .icon {
       margin-right: $spacing_tiny;
     }
+  }
+
+  .projects {
+    transform: rotate(0deg) translate(0px);
+    margin-bottom: 60px;
+    width: auto;
+    display: block;
   }
 }
