@@ -36,6 +36,13 @@ h2 {
   justify-content: center;
 }
 
+.grayRow {
+  background-color: #eeeeee;
+  clip-path: polygon(0 2%, 100% 0%, 100% 93%, 0% 100%);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .socialButton {
   padding: $spacing_small;
   margin: $spacing_small;

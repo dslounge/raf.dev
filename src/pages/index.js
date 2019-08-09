@@ -48,7 +48,9 @@ const IndexPage = () => (
       />
     </div>
     <div className="content">
-      <Bio />
+      <div className="grayRow">
+        <Bio />
+      </div>
       <div>
         <h2>My Projects</h2>
         <div className="projects">
@@ -81,23 +83,25 @@ const IndexPage = () => (
           />
         </div>
       </div>
-      <div className="blogposts">
-        <h2>Writing</h2>
-        <WritingLink
-          title="How to Build your React Native Team"
-          url="https://medium.com/@GroundControl/how-to-build-your-react-native-team-d8bc4be6014a"
-          description="You decided to go with React Native. Now what?"
-        />
-        <WritingLink
-          title="Animating Gradients in React Native"
-          url="https://medium.com/@GroundControl/animating-gradients-in-react-native-8853dbd97d02"
-          description="Animating gradients in React Native isn’t straight forward, but this tutorial will show you how to get it done."
-        />
-        <WritingLink
-          title="Failure, Depression and Resilience"
-          url="https://medium.com/@GroundControl/failure-depression-and-resilience-3cfa67db4290"
-          description="2018 wasn't a great year for me. I want to share what life has taught me about failure, depression and resilience."
-        />
+      <div className="grayRow">
+        <div className="blogposts">
+          <h2>Writing</h2>
+          <WritingLink
+            title="How to Build your React Native Team"
+            url="https://medium.com/@GroundControl/how-to-build-your-react-native-team-d8bc4be6014a"
+            description="You decided to go with React Native. Now what?"
+          />
+          <WritingLink
+            title="Animating Gradients in React Native"
+            url="https://medium.com/@GroundControl/animating-gradients-in-react-native-8853dbd97d02"
+            description="Animating gradients in React Native isn’t straight forward, but this tutorial will show you how to get it done."
+          />
+          <WritingLink
+            title="Failure, Depression and Resilience"
+            url="https://medium.com/@GroundControl/failure-depression-and-resilience-3cfa67db4290"
+            description="2018 wasn't a great year for me. I want to share what life has taught me about failure, depression and resilience."
+          />
+        </div>
       </div>
     </div>
   </Layout>
