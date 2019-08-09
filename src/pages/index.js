@@ -1,6 +1,6 @@
 import React from "react";
-import { SocialButton } from "../components/social-button";
 import { Project } from "../components/Project";
+import { Contact } from "../components/Contact";
 import Layout from "../components/layout";
 import rafProfile from "../images/raf-profile.png";
 import { Bio } from "../components/bio";
@@ -25,28 +25,7 @@ const IndexPage = () => (
         </div>
       </div>
     </div>
-    <div className="row">
-      <SocialButton
-        icon="envelope"
-        title="email"
-        url="mailto:rmendiola@alum.mit.edu"
-      />
-      <SocialButton
-        icon={["fab", "twitter"]}
-        title="twitter"
-        url="https://twitter.com/groundcontrol"
-      />
-      <SocialButton
-        icon={["fab", "instagram"]}
-        title="instagram"
-        url="https://instagram.com/dslounge"
-      />
-      <SocialButton
-        icon={["fab", "linkedin"]}
-        title="linkedIn"
-        url="https://linkedin.com/in/rafmendiola"
-      />
-    </div>
+    <Contact />
     <div>
       <div className="shadow">
         <div className="grayRow">
@@ -110,6 +89,7 @@ const IndexPage = () => (
         </div>
       </div>
     </div>
+    <Contact />
   </Layout>
 );
 
