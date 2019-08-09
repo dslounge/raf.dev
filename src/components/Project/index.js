@@ -36,6 +36,7 @@ export const Project = props => {
             type="video/mp4"
             loop
             muted
+            disableRemotePlayback
           />
         )}
         <div className="caption">

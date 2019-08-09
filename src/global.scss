@@ -2,6 +2,7 @@
 
 p {
   line-height: 175%;
+  font-weight: 300;
 }
 
 h2 {
@@ -184,7 +185,6 @@ h2 {
   .projects {
     transform: rotate(0deg) translate(0px);
     margin-bottom: 60px;
-    width: auto;
-    display: block;
+    width: 100%;
   }
 }

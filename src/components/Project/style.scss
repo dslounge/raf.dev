@@ -94,6 +94,6 @@
 @media only screen and (max-width: $mobile_boundary) {
   .project {
     transform: rotate(-7deg) translate(10px, -0px);
-    margin: 20px;
+    margin: 20px auto;
   }
 }
