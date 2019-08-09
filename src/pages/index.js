@@ -88,6 +88,14 @@ const IndexPage = () => (
           </div>
         </div>
       </div>
+      <div className="blogposts contentBlock">
+        <h2>Talks</h2>
+        <WritingLink
+          title="Speed up your React Native Development with Storybook"
+          url="https://www.youtube.com/watch?v=SN9DKCKb13k"
+          description="Using Storybook in Lola's React Native application. At Boston React Native Meetup 06/29/17"
+        />
+      </div>
     </div>
     <Contact />
   </Layout>
