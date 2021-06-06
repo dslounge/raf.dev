@@ -22,6 +22,14 @@ const Row = styled.div`
   padding: 4px;
 `;
 
+const NewRow = styled.div`
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid ${borderColor};
+  padding: 4px;
+  background-color: #EEDDEE;
+`;
+
 const Lyrics = styled.div`
   background-color: white;
 `;
@@ -70,31 +78,60 @@ const Word = ({ jp, kana, en }) => {
   );
 };
 
+const particle_no = { jp: "の", kana: "の", en: "to" };
+const particle_ni = { jp: "に", kana: "に", en: "to" };
+const particle_wo = { jp: "を", kana: "を", en: "to" };
+
+const lyrics = [
+  [
+    // 飛交う人の批評に
+    { jp: "飛交う", kana: "とびかう", en: "fly" },
+    { jp: "人", kana: "ひと", en: "people" },
+    particle_no,
+    { jp: "批評", kana: "ひひょう", en: "criticism" },
+    particle_ni,
+  ],
+
+  [
+    //自己実現を図り
+    // { jp: "自己実現", kana: "じこじつげん", en: "self actualization" },
+    { jp: "自己", kana: "じこ", en: "self; oneself" },
+    { jp: "実現", kana: "じつげん", en: "implementation" },
+    particle_wo,
+    { jp: "図り", kana: "はかり", en: "plan" },
+  ],
+];
+
+const LyricComponent = ({ lyricLine }) => {
+  const jpLyric = lyricLine.map(l => l.jp).join("");
+
+  return (
+    <NewRow>
+      <Lyric>{jpLyric}</Lyric>
+      <Explanation>
+        {lyricLine.map(l => (
+          <Word jp={l.jp} kana={l.kana} en={l.en} />
+        ))}
+      </Explanation>
+    </NewRow>
+  );
+};
+
 export default () => {
   return (
     <Page>
       <Title>Shiina Ringo - 同じ夜</Title>
       <YouTube ytid="du2OuHaVHKE" />
       <Lyrics>
-        <Row>
-          <Lyric>飛交う人の批評に</Lyric>
-          <Explanation>
-            <Word jp="飛交う" kana="とびかう" en="fly" />
-            <Word jp="人" kana="ひと" en="people" />
-            <Word jp="批評" kana="ひひょう" en="criticism" />
-          </Explanation>
-        </Row>
-        <Row>
-          <Lyric>自己実現を図り</Lyric>
-          <Explanation>
-            <Word jp="自己実現" kana="じこじつげん" en="self actualization" />
-            <Word jp="自己" kana="じこ" en="self; oneself" />
-            <Word jp="実現" kana="じつげん" en="implementation" />
-            <Word jp="図り" kana="はかり" en="plan" />
-          </Explanation>
-        </Row>
+        {lyrics.map(lyric => (
+          <LyricComponent lyricLine={lyric} />
+        ))}
         <Row>
           <Lyric>戸惑うこれの根源に</Lyric>
+          <Explanation>
+            <Word jp="戸惑うこ" kana="とまどう" en="to be bewildered" />
+            <Word jp="根源" kana="こんげん" en="root, source, origin" />
+          </Explanation>
         </Row>
         <Row>
           <Lyric>尋ねる行為を忘れ</Lyric>
