@@ -4,7 +4,9 @@ import { YouTube } from "../components/YouTube";
 
 const borderColor = "#EEF2F7";
 const textColor = "#647385";
-const jpColor = "#4926BD";
+const lyricsColor = "#333333";
+const jpColor = "#858687";
+const enColor = "#A3A3A3";
 
 const Page = styled.div`
   width: 1000px;
@@ -25,18 +27,23 @@ const Row = styled.div`
 const NewRow = styled.div`
   display: flex;
   flex-direction: row;
-  border-bottom: 1px solid ${borderColor};
-  padding: 4px;
-  background-color: #EEDDEE;
+  padding: 10px;
+  background-color: white;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: rgba(149, 157, 165, 0.1) 0px 4px 16px;
 `;
 
-const Lyrics = styled.div`
-  background-color: white;
-`;
+const Lyrics = styled.div``;
+
+const LYRIC_COLUMN_WIDTH = 350;
 
 const Lyric = styled.div`
   display: flex;
-  flex: 1;
+  width: ${LYRIC_COLUMN_WIDTH}px;
+  font-size: 25px;
+  color: ${lyricsColor};
+  font-weight: 500;
 `;
 
 const Explanation = styled.div`
@@ -54,25 +61,34 @@ const Link = styled.div``;
 const WordContainer = styled.div`
   display: flex;
   flex-direction: row;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 `;
 
-const Jp = styled.div`
-  font-weight: bold;
+const Japanese = styled.div`
+  width: 150px;
   color: ${jpColor};
-  width: 100px;
 `;
 
-const Kana = styled.div`
-  width: 100px;
+const Kanji = styled.span`
+  font-weight: 500;
+  font-size: 18px;
 `;
-const En = styled.div``;
+
+const Kana = styled.span`
+  width: 100px;
+  font-size: 14px;
+`;
+const En = styled.div`
+  color: ${enColor};
+`;
 
 const Word = ({ jp, kana, en }) => {
   return (
     <WordContainer>
-      <Jp>{jp}</Jp>&nbsp;
-      <Kana>{kana}</Kana>&nbsp;
+      <Japanese>
+        <Kanji>{jp}</Kanji>&nbsp;
+        <Kana>{kana}</Kana>&nbsp;
+      </Japanese>
       <En>{en}</En>
     </WordContainer>
   );
@@ -81,6 +97,14 @@ const Word = ({ jp, kana, en }) => {
 const particle_no = { jp: "の", kana: "の", en: "to" };
 const particle_ni = { jp: "に", kana: "に", en: "to" };
 const particle_wo = { jp: "を", kana: "を", en: "to" };
+
+//TODO: it would be cool to have a setting to automaticall add space to the lyrics.
+// Maybe what I can do now is put everything in a google spreadsheet. Now that I have some structured figured out, I don't
+// have to type in Japanese in vim. Do it in google sheets, add links, timing, etc.
+// Maybe I can build myself a tool to set up the timing of each word? Karaoke style?
+// Clicking on a word should take you to 2s before the timing of that line.
+// TODO: this should have a really cool background. It should be a work of love for this song. 
+// The timing tool should let me press space to time the lyric to the song. When I press space, the next word in the queue is timed to that point. I should also give myself tools to nudge. 
 
 const lyrics = [
   [
@@ -94,11 +118,25 @@ const lyrics = [
 
   [
     //自己実現を図り
-    // { jp: "自己実現", kana: "じこじつげん", en: "self actualization" },
     { jp: "自己", kana: "じこ", en: "self; oneself" },
     { jp: "実現", kana: "じつげん", en: "implementation" },
     particle_wo,
     { jp: "図り", kana: "はかり", en: "plan" },
+  ],
+  [
+    //戸惑うこれの根源に
+    { jp: "戸惑う", kana: "とまどう", en: "to be bewildered" },
+    { jp: "これ", kana: "これ", en: "this" },
+    particle_no,
+    { jp: "根源", kana: "こんげん", en: "root, source, origin" },
+    particle_ni,
+  ],
+  [
+    // 尋ねる行為を忘れ
+    { jp: "尋ねる", kana: "たすねる", en: "to inquire, search for" },
+    { jp: "行為", kana: "こうい", en: "act, deed" },
+    particle_wo,
+    { jp: "忘れ", kana: "わすれ", en: "forget" },
   ],
 ];
 
@@ -126,16 +164,6 @@ export default () => {
         {lyrics.map(lyric => (
           <LyricComponent lyricLine={lyric} />
         ))}
-        <Row>
-          <Lyric>戸惑うこれの根源に</Lyric>
-          <Explanation>
-            <Word jp="戸惑うこ" kana="とまどう" en="to be bewildered" />
-            <Word jp="根源" kana="こんげん" en="root, source, origin" />
-          </Explanation>
-        </Row>
-        <Row>
-          <Lyric>尋ねる行為を忘れ</Lyric>
-        </Row>
         <Spacer />
         <Row>
           <Lyric>此の日々が訪れた</Lyric>
