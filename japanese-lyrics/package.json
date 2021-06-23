@@ -1,0 +1,15 @@
+{
+  "name": "japanese-lyrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --experimental-json-modules index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "unofficial-jisho-api": "^2.1.1"
+  }
+}
