@@ -8,8 +8,11 @@ let processedWords = 0;
 const stringify = obj => JSON.stringify(obj, null, 2);
 
 const processSearchResults = result => {
-  if (result.data) {
+  // console.log("processSearchResults");
+  // console.log(result);
+  if (result.data && result.data.length !== 0) {
     const firstResult = result.data[0];
+    // console.log("firstResult", firstResult);
     const slug = firstResult.slug;
 
     const firstJapanese = firstResult.japanese[0];
@@ -63,15 +66,14 @@ const sleep = ms => {
 
 const dictionarySearch = async jp => {
   console.log("--dictionarySearch--", jp);
-  const result = await jisho.searchForPhrase(jp);
-  return processSearchResults(result);
 };
 
 const fillDefinition = async word => {
-  console.log("fillDefinition: ", word);
-  await sleep(2000);
-  console.log("should have waited");
-  const { reading, english, jishoUrl, error } = await dictionarySearch(word.jp);
+  const dictionaryResult = await jisho.searchForPhrase(word.jp);
+  const { reading, english, jishoUrl, error } = processSearchResults(
+    dictionaryResult
+  );
+
   // mutate hahaha
   word.kana = reading;
   word.en = english;
@@ -82,11 +84,15 @@ const fillDefinition = async word => {
 
 const testWords = Object.values(words).slice(0, 3);
 
-const processWords = () => {
-  Object.values(testWords)
-    .reduce((chain, nextWord) => {
-      chain.then(fillDefinition(nextWord));
-    }, Promise.resolve());
+const processWords = async (wordList) => {
+  for (var i = 0; i < wordList.length; i++) {
+    const word = wordList[i];
+    console.log(word);
+    await sleep(1000);
+    await fillDefinition(word);
+    console.log(word);
+  }
 };
 
-processWords();
+// processWords(testWords);
+processWords(Object.values(words));
