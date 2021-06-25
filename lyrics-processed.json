@@ -1,0 +1,496 @@
+{
+  "words": {
+    "飛交う": {
+      "jp": "飛交う",
+      "error": "Not found"
+    },
+    "人": {
+      "jp": "人",
+      "en": "man, person",
+      "kana": "ひと",
+      "jishoUrl": "http://jisho.org/word/人-2"
+    },
+    "の": {
+      "jp": "の",
+      "en": "indicates possessive",
+      "kana": "の",
+      "jishoUrl": "http://jisho.org/word/の"
+    },
+    "批評": {
+      "jp": "批評",
+      "en": "criticism, critique, review, commentary",
+      "kana": "ひひょう",
+      "jishoUrl": "http://jisho.org/word/批評"
+    },
+    "に": {
+      "jp": "に",
+      "en": "two",
+      "kana": "に",
+      "jishoUrl": "http://jisho.org/word/二"
+    },
+    "自己実現": {
+      "jp": "自己実現",
+      "en": "self-actualization, self-fulfillment, self-realization",
+      "kana": "じこじつげん",
+      "jishoUrl": "http://jisho.org/word/自己実現"
+    },
+    "を": {
+      "jp": "を",
+      "en": "indicates direct object of action",
+      "kana": "を",
+      "jishoUrl": "http://jisho.org/word/を"
+    },
+    "図り": {
+      "jp": "図り",
+      "en": "sketching, drawing a plan, sketch",
+      "kana": "ずどり",
+      "jishoUrl": "http://jisho.org/word/図取り"
+    },
+    "戸惑う": {
+      "jp": "戸惑う",
+      "en": "to be bewildered, to be perplexed",
+      "kana": "とまどう",
+      "jishoUrl": "http://jisho.org/word/戸惑う"
+    },
+    "これ": {
+      "jp": "これ",
+      "en": "this, this one",
+      "kana": "これ",
+      "jishoUrl": "http://jisho.org/word/此れ"
+    },
+    "根源": {
+      "jp": "根源",
+      "en": "root, source, origin, cause",
+      "kana": "こんげん",
+      "jishoUrl": "http://jisho.org/word/根源"
+    },
+    "尋ねる": {
+      "jp": "尋ねる",
+      "en": "to ask, to enquire, to inquire",
+      "kana": "たずねる",
+      "jishoUrl": "http://jisho.org/word/尋ねる"
+    },
+    "行為": {
+      "jp": "行為",
+      "en": "act, deed, conduct",
+      "kana": "こうい",
+      "jishoUrl": "http://jisho.org/word/行為"
+    },
+    "忘れ": {
+      "jp": "忘れ",
+      "en": "to forget, to leave carelessly, to be forgetful of, to forget about, to forget (an article)",
+      "kana": "わすれる",
+      "jishoUrl": "http://jisho.org/word/忘れる"
+    },
+    "此の": {
+      "jp": "此の",
+      "en": "this",
+      "kana": "この",
+      "jishoUrl": "http://jisho.org/word/此の"
+    },
+    "日々": {
+      "jp": "日々",
+      "en": "every day, daily, day after day, days (e.g. good old days)",
+      "kana": "ひび",
+      "jishoUrl": "http://jisho.org/word/日々"
+    },
+    "が": {
+      "jp": "が",
+      "en": "indicates sentence subject (occasionally object)",
+      "kana": "が",
+      "jishoUrl": "http://jisho.org/word/が"
+    },
+    "訪れた": {
+      "jp": "訪れた",
+      "en": "to visit, to call on",
+      "kana": "おとずれる",
+      "jishoUrl": "http://jisho.org/word/訪れる"
+    },
+    "窓": {
+      "jp": "窓",
+      "en": "window",
+      "kana": "まど",
+      "jishoUrl": "http://jisho.org/word/窓"
+    },
+    "外": {
+      "jp": "外",
+      "en": "outside, exterior",
+      "kana": "そと",
+      "jishoUrl": "http://jisho.org/word/外"
+    },
+    "は": {
+      "jp": "は",
+      "en": "topic marker particle",
+      "kana": "は",
+      "jishoUrl": "http://jisho.org/word/は"
+    },
+    "誤魔": {
+      "jp": "誤魔",
+      "en": "to deceive, to falsify, to misrepresent, to cheat, to swindle, to tamper, to juggle, to manipulate",
+      "kana": "ごまかす",
+      "jishoUrl": "http://jisho.org/word/誤魔化す"
+    },
+    "化し": {
+      "jp": "化し",
+      "en": "ornamental apron",
+      "kana": "けしょうまわし",
+      "jishoUrl": "http://jisho.org/word/化粧回し"
+    },
+    "無い": {
+      "jp": "無い",
+      "en": "nonexistent, not being (there)",
+      "kana": "ない",
+      "jishoUrl": "http://jisho.org/word/無い"
+    },
+    "夏": {
+      "jp": "夏",
+      "en": "summer",
+      "kana": "なつ",
+      "jishoUrl": "http://jisho.org/word/夏"
+    },
+    "描かれている": {
+      "jp": "描かれている",
+      "en": "to draw, to paint, to sketch",
+      "kana": "えがく",
+      "jishoUrl": "http://jisho.org/word/描く"
+    },
+    "吹き": {
+      "jp": "吹き",
+      "en": "blowing (e.g. of the wind)",
+      "kana": "ふき",
+      "jishoUrl": "http://jisho.org/word/吹き"
+    },
+    "荒れる": {
+      "jp": "荒れる",
+      "en": "to be stormy, to be rough",
+      "kana": "あれる",
+      "jishoUrl": "http://jisho.org/word/荒れる"
+    },
+    "風": {
+      "jp": "風",
+      "en": "wind, breeze, draught, draft",
+      "kana": "かぜ",
+      "jishoUrl": "http://jisho.org/word/風"
+    },
+    "涙する": {
+      "jp": "涙する",
+      "en": "to cry, to shed tears, to be moved to tears",
+      "kana": "なみだする",
+      "jishoUrl": "http://jisho.org/word/涙する"
+    },
+    "こと": {
+      "jp": "こと",
+      "en": "thing, matter",
+      "kana": "こと",
+      "jishoUrl": "http://jisho.org/word/事"
+    },
+    "も": {
+      "jp": "も",
+      "en": "too, also, in addition, as well, (not) either (in a negative sentence)",
+      "kana": "も",
+      "jishoUrl": "http://jisho.org/word/も"
+    },
+    "幸せな": {
+      "jp": "幸せな",
+      "en": "If You're Happy and You Know It",
+      "jishoUrl": "http://jisho.org/word/518697ecd5dda7b2c604e255"
+    },
+    "君": {
+      "jp": "君",
+      "en": "you, buddy, pal",
+      "kana": "きみ",
+      "jishoUrl": "http://jisho.org/word/君"
+    },
+    "只願う": {
+      "jp": "只願う",
+      "en": "ordinary, common, usual",
+      "kana": "ただ",
+      "jishoUrl": "http://jisho.org/word/只"
+    },
+    "同じ": {
+      "jp": "同じ",
+      "en": "same, identical, equal, uniform, equivalent, similar, common (origin), changeless, alike",
+      "kana": "おなじ",
+      "jishoUrl": "http://jisho.org/word/同じ"
+    },
+    "空": {
+      "jp": "空",
+      "en": "sky, the air, the heavens",
+      "kana": "そら",
+      "jishoUrl": "http://jisho.org/word/空-1"
+    },
+    "明日": {
+      "jp": "明日",
+      "en": "tomorrow",
+      "kana": "あした",
+      "jishoUrl": "http://jisho.org/word/明日"
+    },
+    "始めてしまう": {
+      "jp": "始めてしまう",
+      "en": "to start, to begin, to commence, to initiate, to originate",
+      "kana": "はじめる",
+      "jishoUrl": "http://jisho.org/word/始める"
+    },
+    "例え": {
+      "jp": "例え",
+      "en": "example",
+      "kana": "たとえ",
+      "jishoUrl": "http://jisho.org/word/例え"
+    },
+    "此処": {
+      "jp": "此処",
+      "en": "here, this place",
+      "kana": "ここ",
+      "jishoUrl": "http://jisho.org/word/此処"
+    },
+    "居なくても": {
+      "jp": "居なくても",
+      "en": "to be (of animate objects), to exist",
+      "kana": "いる",
+      "jishoUrl": "http://jisho.org/word/居る"
+    },
+    "彷徨う": {
+      "jp": "彷徨う",
+      "en": "to loiter, to putter, to prowl, to wander about, to roam about, to knock around",
+      "kana": "さまよう",
+      "jishoUrl": "http://jisho.org/word/彷徨う"
+    },
+    "夢": {
+      "jp": "夢",
+      "en": "dream",
+      "kana": "ゆめ",
+      "jishoUrl": "http://jisho.org/word/夢"
+    },
+    "天神": {
+      "jp": "天神",
+      "en": "heavenly god, heavenly gods",
+      "kana": "てんじん",
+      "jishoUrl": "http://jisho.org/word/天神"
+    },
+    "生温さ": {
+      "jp": "生温さ",
+      "en": "lukewarm, tepid",
+      "kana": "なまぬるい",
+      "jishoUrl": "http://jisho.org/word/生ぬるい"
+    },
+    "望み": {
+      "jp": "望み",
+      "en": "wish, desire, hope",
+      "kana": "のぞみ",
+      "jishoUrl": "http://jisho.org/word/望み"
+    },
+    "行交う": {
+      "jp": "行交う",
+      "en": "to come and go, to go back and forth",
+      "kana": "ゆきかう",
+      "jishoUrl": "http://jisho.org/word/行き交う"
+    },
+    "大半": {
+      "jp": "大半",
+      "en": "majority, more than half, most (of)",
+      "kana": "たいはん",
+      "jishoUrl": "http://jisho.org/word/大半"
+    },
+    "素早く": {
+      "jp": "素早く",
+      "en": "quick, swift, nimble, agile",
+      "kana": "すばやい",
+      "jishoUrl": "http://jisho.org/word/素早い"
+    },
+    "注目": {
+      "jp": "注目",
+      "en": "notice, attention, observation",
+      "kana": "ちゅうもく",
+      "jishoUrl": "http://jisho.org/word/注目"
+    },
+    "させ": {
+      "jp": "させ",
+      "en": "turning to the left, left turn",
+      "kana": "させつ",
+      "jishoUrl": "http://jisho.org/word/左折"
+    },
+    "其": {
+      "jp": "其",
+      "en": "that, it",
+      "kana": "それ",
+      "jishoUrl": "http://jisho.org/word/其れ"
+    },
+    "欲": {
+      "jp": "欲",
+      "en": "greed, craving, desire, appetite, hunger, avarice, wants",
+      "kana": "よく",
+      "jishoUrl": "http://jisho.org/word/欲"
+    },
+    "満たされ": {
+      "jp": "満たされ",
+      "en": "to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify",
+      "kana": "みたす",
+      "jishoUrl": "http://jisho.org/word/満たす"
+    },
+    "あたし": {
+      "jp": "あたし",
+      "en": "I, me",
+      "kana": "あたし",
+      "jishoUrl": "http://jisho.org/word/私-1"
+    },
+    "眼": {
+      "jp": "眼",
+      "en": "eye, eyeball",
+      "kana": "め",
+      "jishoUrl": "http://jisho.org/word/目"
+    },
+    "にも": {
+      "jp": "にも",
+      "en": "also, too, not ... either, as well, even",
+      "kana": "にも",
+      "jishoUrl": "http://jisho.org/word/にも"
+    },
+    "果てる": {
+      "jp": "果てる",
+      "en": "to end, to be finished, to be exhausted",
+      "kana": "はてる",
+      "jishoUrl": "http://jisho.org/word/果てる"
+    },
+    "ない": {
+      "jp": "ない",
+      "en": "nonexistent, not being (there)",
+      "kana": "ない",
+      "jishoUrl": "http://jisho.org/word/無い"
+    },
+    "映される": {
+      "jp": "映される",
+      "en": "to project, to reflect, to cast (shadow)",
+      "kana": "うつす",
+      "jishoUrl": "http://jisho.org/word/映す"
+    },
+    "か": {
+      "jp": "か",
+      "en": "lesson",
+      "kana": "か",
+      "jishoUrl": "http://jisho.org/word/課"
+    },
+    "泣き喚く": {
+      "jp": "泣き喚く",
+      "en": "to bawl, to cry, to scream",
+      "kana": "なきわめく",
+      "jishoUrl": "http://jisho.org/word/泣き喚く"
+    },
+    "海": {
+      "jp": "海",
+      "en": "sea, ocean, waters",
+      "kana": "うみ",
+      "jishoUrl": "http://jisho.org/word/海"
+    },
+    "立ち": {
+      "jp": "立ち",
+      "en": "departure, setting off, start",
+      "kana": "たち",
+      "jishoUrl": "http://jisho.org/word/立ち"
+    },
+    "止まる": {
+      "jp": "止まる",
+      "en": "to stop (moving), to come to a stop",
+      "kana": "とまる",
+      "jishoUrl": "http://jisho.org/word/止まる"
+    },
+    "触れられない": {
+      "jp": "触れられない",
+      "en": "to touch, to feel",
+      "kana": "ふれる",
+      "jishoUrl": "http://jisho.org/word/触れる"
+    },
+    "只想う": {
+      "jp": "只想う",
+      "en": "ordinary, common, usual",
+      "kana": "ただ",
+      "jishoUrl": "http://jisho.org/word/只"
+    },
+    "ことも": {
+      "jp": "ことも",
+      "en": "careless",
+      "kana": "こともなげ",
+      "jishoUrl": "http://jisho.org/word/事も無げ"
+    },
+    "息": {
+      "jp": "息",
+      "en": "breath, breathing",
+      "kana": "いき",
+      "jishoUrl": "http://jisho.org/word/息"
+    },
+    "止めて": {
+      "jp": "止めて",
+      "en": "to pass, to pass on, to give (something) a miss",
+      "kana": "やめておく",
+      "jishoUrl": "http://jisho.org/word/止めておく"
+    },
+    "吹き荒れる": {
+      "jp": "吹き荒れる",
+      "en": "to blow violently, to sweep over, to devastate",
+      "kana": "ふきあれる",
+      "jishoUrl": "http://jisho.org/word/吹き荒れる"
+    }
+  },
+  "lyrics": [
+    [
+      ["飛交う", "人", "の", "批評", "に"],
+      ["自己実現", "を", "図り"],
+      ["戸惑う", "これ", "の", "根源", "に"],
+      ["尋ねる", "行為", "を", "忘れ"]
+    ],
+    [
+      ["此の", "日々", "が", "訪れた"],
+      ["窓", "の", "外", "に", "は"],
+      ["誤魔", "化し", "の", "無い", "夏"],
+      ["描かれている"]
+    ],
+    [
+      ["吹き", "荒れる", "風", "に"],
+      ["涙する", "こと", "も"],
+      ["幸せな", "君", "を"],
+      ["只願う", "こと", "も"]
+    ],
+    [
+      ["同じ", "空", "は", "明日", "を"],
+      ["始めてしまう"],
+      ["例え", "君", "が"],
+      ["此処", "に", "居なくても"]
+    ],
+    [
+      ["彷徨う", "夢", "の", "天神", "に"],
+      ["生温さ", "を", "望み"],
+      ["行交う", "人", "の", "大半", "に"],
+      ["素早く", "注目", "を", "させ"]
+    ],
+    [
+      ["其", "の", "欲", "が", "満たされ"],
+      ["あたし", "の", "眼", "にも"],
+      ["果てる", "こと", "ない", "夢"],
+      ["映される", "の", "か"]
+    ],
+    [
+      ["泣き喚く", "海", "に"],
+      ["立ち", "止まる", "こと", "も"],
+      ["触れられない", "君", "を"],
+      ["只想う", "ことも"]
+    ],
+    [
+      ["同じ", "空", "は", "明日", "を"],
+      ["始めてしまう"],
+      ["例え", "あたし", "が"],
+      ["息", "を", "止めて", "も"]
+    ],
+    [
+      ["吹き荒れる", "風", "に"],
+      ["涙する", "ことも"],
+      ["幸せな", "君", "を"],
+      ["只願う", "ことも"]
+    ],
+    [
+      ["泣き喚く", "海", "に"],
+      ["立ち", "止まる", "ことも"],
+      ["触れられない", "君", "を"],
+      ["只想う", "ことも"]
+    ]
+  ]
+}
+

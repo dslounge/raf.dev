@@ -1,18 +1,14 @@
 import lyrics from "./lyrics.json";
 import JishoApi from "unofficial-jisho-api";
+import fs from 'fs';
 
 const jisho = new JishoApi();
-const words = {};
-let processedWords = 0;
 
 const stringify = obj => JSON.stringify(obj, null, 2);
 
 const processSearchResults = result => {
-  // console.log("processSearchResults");
-  // console.log(result);
   if (result.data && result.data.length !== 0) {
     const firstResult = result.data[0];
-    // console.log("firstResult", firstResult);
     const slug = firstResult.slug;
 
     const firstJapanese = firstResult.japanese[0];
@@ -32,40 +28,8 @@ const processSearchResults = result => {
   };
 };
 
-const processWord = word => {
-  processedWords++;
-  if (!words[word]) {
-    words[word] = {
-      jp: word,
-      en: "",
-      kana: "",
-    };
-  }
-  return word;
-};
-
-const processLyric = lyric => {
-  // console.log("--processLyric--");
-  // console.log(lyric);
-  const words = lyric.map(processWord);
-};
-
-const processVerse = verse => {
-  // console.log("---processVerse--");
-  // console.log(verse);
-  const lyrics = verse.map(processLyric);
-};
-
-const verses = lyrics.map(processVerse);
-const uniqueWords = Object.keys(words).length;
-console.log("processed: ", processedWords, " unique: ", uniqueWords);
-
 const sleep = ms => {
   return new Promise(resolve => setTimeout(resolve, ms));
-};
-
-const dictionarySearch = async jp => {
-  console.log("--dictionarySearch--", jp);
 };
 
 const fillDefinition = async word => {
@@ -82,10 +46,8 @@ const fillDefinition = async word => {
   return null;
 };
 
-const testWords = Object.values(words).slice(0, 3);
-
-const processWords = async (wordList) => {
-  for (var i = 0; i < wordList.length; i++) {
+const getDefinitions = async wordList => {
+  for (let i = 0; i < wordList.length; i++) {
     const word = wordList[i];
     console.log(word);
     await sleep(1000);
@@ -94,5 +56,40 @@ const processWords = async (wordList) => {
   }
 };
 
-// processWords(testWords);
-processWords(Object.values(words));
+const getWords = lyrics => {
+  const words = {};
+  let processedWords = 0;
+
+  lyrics.forEach(verse => {
+    verse.forEach(line => {
+      line.forEach(word => {
+        processedWords++;
+        if (!words[word]) {
+          words[word] = {
+            jp: word,
+            en: "",
+            kana: "",
+          };
+        }
+      });
+    });
+  });
+
+  const uniqueWords = Object.keys(words).length;
+  console.log("processed: ", processedWords, " unique: ", uniqueWords);
+  return words;
+};
+
+const processLyrics = async () => {
+  const words = getWords(lyrics);
+  const wordList = Object.values(words);
+  await getDefinitions(wordList);
+  const processedLyrics = {
+    words,
+    lyrics,
+  };
+
+  fs.writeFileSync("./lyrics-processed.json", stringify(processedLyrics), "utf-8");
+};
+
+processLyrics();
