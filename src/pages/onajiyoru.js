@@ -1,6 +1,9 @@
 import React from "react";
 import styled from "styled-components";
 import { YouTube } from "../components/YouTube";
+import processedLyrics from "../../japanese-lyrics/lyrics-processed.json";
+
+const { words, lyrics } = processedLyrics;
 
 const borderColor = "#EEF2F7";
 const textColor = "#647385";
@@ -37,6 +40,10 @@ const NewRow = styled.div`
 const Lyrics = styled.div``;
 
 const LYRIC_COLUMN_WIDTH = 350;
+
+const VerseContainer = styled.div`
+  margin: 10px;
+`;
 
 const Lyric = styled.div`
   display: flex;
@@ -103,190 +110,48 @@ const particle_wo = { jp: "を", kana: "を", en: "to" };
 // have to type in Japanese in vim. Do it in google sheets, add links, timing, etc.
 // Maybe I can build myself a tool to set up the timing of each word? Karaoke style?
 // Clicking on a word should take you to 2s before the timing of that line.
-// TODO: this should have a really cool background. It should be a work of love for this song. 
-// The timing tool should let me press space to time the lyric to the song. When I press space, the next word in the queue is timed to that point. I should also give myself tools to nudge. 
-
-
-const lyrics = [
-  [
-    // 飛交う人の批評に
-    { jp: "飛交う", kana: "とびかう", en: "fly" },
-    { jp: "人", kana: "ひと", en: "people" },
-    particle_no,
-    { jp: "批評", kana: "ひひょう", en: "criticism" },
-    particle_ni,
-  ],
-
-  [
-    //自己実現を図り
-    { jp: "自己", kana: "じこ", en: "self; oneself" },
-    { jp: "実現", kana: "じつげん", en: "implementation" },
-    particle_wo,
-    { jp: "図り", kana: "はかり", en: "plan" },
-  ],
-  [
-    //戸惑うこれの根源に
-    { jp: "戸惑う", kana: "とまどう", en: "to be bewildered" },
-    { jp: "これ", kana: "これ", en: "this" },
-    particle_no,
-    { jp: "根源", kana: "こんげん", en: "root, source, origin" },
-    particle_ni,
-  ],
-  [
-    // 尋ねる行為を忘れ
-    { jp: "尋ねる", kana: "たすねる", en: "to inquire, search for" },
-    { jp: "行為", kana: "こうい", en: "act, deed" },
-    particle_wo,
-    { jp: "忘れ", kana: "わすれ", en: "forget" },
-  ],
-];
+// TODO: this should have a really cool background. It should be a work of love for this song.
+// The timing tool should let me press space to time the lyric to the song. When I press space, the next word in the queue is timed to that point. I should also give myself tools to nudge.
 
 const LyricComponent = ({ lyricLine }) => {
-  const jpLyric = lyricLine.map(l => l.jp).join("");
+  const jpLyric = lyricLine.join("");
 
   return (
     <NewRow>
       <Lyric>{jpLyric}</Lyric>
       <Explanation>
-        {lyricLine.map(l => (
-          <Word jp={l.jp} kana={l.kana} en={l.en} />
-        ))}
+        {lyricLine.map(w => {
+          const word = words[w];
+          return <Word jp={word.jp} kana={word.kana} en={word.en} />;
+        })}
       </Explanation>
     </NewRow>
   );
 };
 
+const Verse = ({ verse }) => {
+  console.log("--Verse--", verse);
+  return (
+    <VerseContainer>
+      {verse.map(lyric => (
+        <LyricComponent lyricLine={lyric} />
+      ))}
+    </VerseContainer>
+  );
+};
+
 export default () => {
+  console.log("----");
+  console.log(lyrics);
+
   return (
     <Page>
       <Title>Shiina Ringo - 同じ夜</Title>
       <YouTube ytid="du2OuHaVHKE" />
       <Lyrics>
-        {lyrics.map(lyric => (
-          <LyricComponent lyricLine={lyric} />
+        {lyrics.map(verse => (
+          <Verse verse={verse} />
         ))}
-        <Spacer />
-        <Row>
-          <Lyric>此の日々が訪れた</Lyric>
-        </Row>
-        <Row>
-          <Lyric>窓の外には</Lyric>
-        </Row>
-        <Row>
-          <Lyric>誤魔化しの無い夏</Lyric>
-        </Row>
-        <Row>
-          <Lyric>描かれている</Lyric>
-        </Row>
-
-        <Spacer />
-        <Row>
-          <Lyric>吹き荒れる風に</Lyric>
-        </Row>
-        <Row>
-          <Lyric>涙することも</Lyric>
-        </Row>
-        <Row>
-          <Lyric>幸せな君を</Lyric>
-        </Row>
-        <Row>
-          <Lyric>只願うことも</Lyric>
-        </Row>
-
-        <Spacer />
-        <Row>
-          <Lyric>同じ 空は明日を</Lyric>
-        </Row>
-        <Row>
-          <Lyric>始めてしまう</Lyric>
-        </Row>
-        <Row>
-          <Lyric>例え君が</Lyric>
-        </Row>
-        <Row>
-          <Lyric>此処に居なくても</Lyric>
-        </Row>
-
-        <Spacer />
-        <Row>
-          <Lyric>彷徨う夢の天神に</Lyric>
-        </Row>
-        <Row>
-          <Lyric>生温さを望み</Lyric>
-        </Row>
-        <Row>
-          <Lyric>行交う人の大半に</Lyric>
-        </Row>
-        <Row>
-          <Lyric>素早く注目をさせ</Lyric>
-        </Row>
-
-        <Spacer />
-        <Row>
-          <Lyric>其の欲が満たされた</Lyric>
-        </Row>
-        <Row>
-          <Lyric>あたしの眼にも</Lyric>
-        </Row>
-        <Row>
-          <Lyric>果てることない夢</Lyric>
-        </Row>
-        <Row>
-          <Lyric>映されるのか</Lyric>
-        </Row>
-
-        <Spacer />
-        <Row>
-          <Lyric>泣き喚く海に</Lyric>
-        </Row>
-        <Row>
-          <Lyric>立ち止まることも</Lyric>
-        </Row>
-        <Row>
-          <Lyric>触れられない君を</Lyric>
-        </Row>
-        <Row>
-          <Lyric>只想うことも</Lyric>
-        </Row>
-        <Spacer />
-        <Row>
-          <Lyric>※同じ 空は明日を</Lyric>
-        </Row>
-        <Row>
-          <Lyric>始めてしまう</Lyric>
-        </Row>
-        <Row>
-          <Lyric>例えあたしが</Lyric>
-        </Row>
-        <Row>
-          <Lyric>息を止めても※</Lyric>
-        </Row>
-        <Spacer />
-        <Row>
-          <Lyric>吹き荒れる風に</Lyric>
-        </Row>
-        <Row>
-          <Lyric>涙することも</Lyric>
-        </Row>
-        <Row>
-          <Lyric>幸せな君を</Lyric>
-        </Row>
-        <Row>
-          <Lyric>只願うことも</Lyric>
-        </Row>
-        <Spacer />
-        <Row>
-          <Lyric>泣き喚く海に</Lyric>
-        </Row>
-        <Row>
-          <Lyric>立ち止まることも</Lyric>
-        </Row>
-        <Row>
-          <Lyric>触れられない君を</Lyric>
-        </Row>
-        <Row>
-          <Lyric>只想うことも</Lyric>
-        </Row>
       </Lyrics>
     </Page>
   );
