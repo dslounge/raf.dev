@@ -76,6 +76,13 @@ const IndexPage = () => (
           <Project
             image={benkyouImg}
             video={benkyouVideo}
+            title="Ongaku"
+            description="A quick reference app for common piano chords"
+            url="http://ongaku.raf.dev"
+          />
+          <Project
+            image={benkyouImg}
+            video={benkyouVideo}
             title="Benkyou"
             description="Japanese swipe flashcards"
             url="http://benkyou.cards"
