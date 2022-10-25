@@ -7,6 +7,7 @@ import { Bio } from "../components/bio";
 import { WritingLink } from "../components/WritingLink";
 import { ContentSection } from "../components/ContentSection";
 import benkyouImg from "../images/benkyou-project.png";
+import ongakuImg from "../images/ongaku-project.png";
 import gesocialImg from "../images/geosocial-project.png";
 import ryoteiImg from "../images/ryotei-project.png";
 import kaocardsImg from "../images/kaocards-project.png";
@@ -74,8 +75,7 @@ const IndexPage = () => (
         <h2>My Projects</h2>
         <div className="projects">
           <Project
-            image={benkyouImg}
-            video={benkyouVideo}
+            image={ongakuImg}
             title="Ongaku"
             description="A quick reference app for common piano chords"
             url="http://ongaku.raf.dev"
